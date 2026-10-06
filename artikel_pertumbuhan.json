@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-06T07:07:22.655744+00:00",
+  "generated_at": "2026-10-06T08:13:37.961779+00:00",
   "description": "Metadata dan tautan artikel Pertumbuhan Informasi yang lolos uji relevansi MEVO. Teks lengkap tetap berada di sumber asli.",
   "content_policy": "Feed hanya memuat metadata dan tautan. Teks lengkap tidak disalin tanpa izin publikasi.",
-  "count": 446,
+  "count": 465,
   "articles": [
     {
       "id": 719,
@@ -1918,6 +1918,22 @@
       "published_date": "2026-09-05"
     },
     {
+      "id": 742,
+      "title": "Memahami Rasa Cappuccino: Panduan Coffee Terminology",
+      "url": "https://arutalacoffee.com/blog/memahami-rasa-cappuccino-panduan-coffee-terminology",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-04"
+    },
+    {
+      "id": 741,
+      "title": "Minum Kopi Setelah Makan: Origin & Terroir Kopi",
+      "url": "https://arutalacoffee.com/blog/minum-kopi-setelah-makan-origin-terroir-kopi",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-04"
+    },
+    {
       "id": 387,
       "title": "Rekomendasi Harga Kopi Arabika 4 September 2026 - Vibiznews.com",
       "url": "https://vibiznews.com/index.php/2026/09/04/rekomendasi-harga-kopi-arabika-4-september-2026/",
@@ -1950,12 +1966,76 @@
       "published_date": "2026-09-04"
     },
     {
+      "id": 743,
+      "title": "Panduan Mesin Kopi Manual dan Coffee Preparation",
+      "url": "https://arutalacoffee.com/blog/panduan-mesin-kopi-manual-dan-coffee-preparation",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-03"
+    },
+    {
       "id": 342,
       "title": "8 Alasan Mengapa Minum Kopi di Pagi Hari Mungkin Dapat Membantu Kamu Hidup Lebih Lama dengan Bahagia",
       "url": "https://www.jawapos.com/kepribadian/2609030494/8-alasan-mengapa-minum-kopi-di-pagi-hari-mungkin-dapat-membantu-kamu-hidup-lebih-lama-dengan-bahagia",
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-09-03"
+    },
+    {
+      "id": 747,
+      "title": "Panduan Lengkap Natural Kopi: Biji & Pasca Panen",
+      "url": "https://arutalacoffee.com/blog/panduan-lengkap-natural-kopi-biji-pasca-panen",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-02"
+    },
+    {
+      "id": 746,
+      "title": "Pesona Kedai Kopi Kuno dan Budaya Ngopi Lokal",
+      "url": "https://arutalacoffee.com/blog/pesona-kedai-kopi-kuno-dan-budaya-ngopi-lokal",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-02"
+    },
+    {
+      "id": 745,
+      "title": "Panduan Kopi NESCAFÉ & Mesin di Lotte Grosir",
+      "url": "https://arutalacoffee.com/blog/panduan-kopi-nescaf-mesin-di-lotte-grosir",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-02"
+    },
+    {
+      "id": 744,
+      "title": "Panduan Takaran Kopi Susu Pas Ala Kafe",
+      "url": "https://arutalacoffee.com/blog/panduan-takaran-kopi-susu-pas-ala-kafe",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-02"
+    },
+    {
+      "id": 750,
+      "title": "Sensasi Kopi Lokal Favorit di Puri Kembangan",
+      "url": "https://arutalacoffee.com/blog/sensasi-kopi-lokal-favorit-di-puri-kembangan",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-01"
+    },
+    {
+      "id": 749,
+      "title": "Trik Menyeduh Kopi Latte Sachet ala Kafe",
+      "url": "https://arutalacoffee.com/blog/trik-menyeduh-kopi-latte-sachet-ala-kafe",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-01"
+    },
+    {
+      "id": 748,
+      "title": "Pesona Budaya Kopi Bandung dan Cara Seduh di Rumah",
+      "url": "https://arutalacoffee.com/blog/pesona-budaya-kopi-bandung-dan-cara-seduh-di-rumah",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-01"
     },
     {
       "id": 410,
@@ -2668,6 +2748,78 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2025-12-31"
+    },
+    {
+      "id": 751,
+      "title": "Indonesian Coffee Export to China: GACC 248/249 Guide (2025)",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-export-to-china-gacc-248249-guide-2025-ga_1gH",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-12-30"
+    },
+    {
+      "id": 752,
+      "title": "Indonesian Coffee 4C Certification: 2025 Sourcing Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-4c-certification-2025-sourcing-guide-iZ6s5L",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-12-29"
+    },
+    {
+      "id": 753,
+      "title": "Indonesian Coffee Certificate of Origin: 2025 Complete Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-certificate-of-origin-2025-complete-guide-RGAhfb",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-12-28"
+    },
+    {
+      "id": 754,
+      "title": "Indonesian Coffee Export to Japan: MHLW & JAS 2025 Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-export-to-japan-mhlw-and-jas-2025-guide-v8MslT",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-12-27"
+    },
+    {
+      "id": 755,
+      "title": "Indonesian Coffee Export to Australia: 2025 BICON Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-export-to-australia-2025-bicon-guide-WhQBL5",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-12-26"
+    },
+    {
+      "id": 756,
+      "title": "Indonesian Coffee Export to EU: REX & EUDR 2025 Buyer Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-export-to-eu-rex-and-eudr-2025-buyer-guide-1bXNqQ",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-12-25"
+    },
+    {
+      "id": 758,
+      "title": "Indonesian Coffee Differentials: 2025 Pricing Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-differentials-2025-pricing-guide-6Vs98q",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-12-23"
+    },
+    {
+      "id": 759,
+      "title": "Indonesian Coffee Export Ports: 2025 Cost & Transit Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-export-ports-2025-cost-and-transit-guide-v29TYI",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-12-22"
+    },
+    {
+      "id": 760,
+      "title": "Indonesian Coffee RA vs Fairtrade: 2025 Pricing Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-ra-vs-fairtrade-2025-pricing-guide-apieCX",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-12-21"
     },
     {
       "id": 433,
