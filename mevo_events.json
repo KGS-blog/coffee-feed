@@ -1,7 +1,7 @@
 {
   "schema": "mevo-events-v1",
   "timezone": "Asia/Jakarta",
-  "count": 10,
+  "count": 11,
   "events": [
     {
       "id": "event-a7989cf54588e6c0",
@@ -41,6 +41,26 @@
         }
       ],
       "date_basis": "20-22 September 2025",
+      "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
+    },
+    {
+      "id": "event-128c63eb144ae319",
+      "name": "Festival Kopi",
+      "start_date": "2025-11-02",
+      "end_date": "2025-11-02",
+      "location": null,
+      "country": null,
+      "organizer": null,
+      "category": "Coffee-related event",
+      "date_status": "SOURCE_EXTRACTED",
+      "sources": [
+        {
+          "url": "https://rri.co.id/tanjungpinang/regional/1941616/kerak-telor-betawi-meriahkan-festival-kopi-merdeka-2025",
+          "document_id": 1010,
+          "kind": "growth_article"
+        }
+      ],
+      "date_basis": "2 November 2025",
       "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
     },
     {
@@ -207,7 +227,7 @@
       "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
     }
   ],
-  "candidate_count": 130,
+  "candidate_count": 165,
   "candidates": [
     {
       "id": "3fa4a2e03fb9c62c9ed4",
@@ -1410,6 +1430,327 @@
       "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
     },
     {
+      "id": "5e97e5dca4c2db103093",
+      "document_id": 960,
+      "source_url": "https://trubus.id/kopi-arabika-sridadi-brebes/",
+      "source_title": "Kopi Arabika Sridadi Brebes: Dari Cherry Rp10.000 ke Green Bean Rp165.000 - Trubus",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "954dc3e82126c7cf75fb",
+      "document_id": 960,
+      "source_url": "https://trubus.id/kopi-arabika-sridadi-brebes/",
+      "source_title": "Kopi Arabika Sridadi Brebes: Dari Cherry Rp10.000 ke Green Bean Rp165.000 - Trubus",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "5ef264c917eb22789541",
+      "document_id": 960,
+      "source_url": "https://trubus.id/kopi-arabika-sridadi-brebes/",
+      "source_title": "Kopi Arabika Sridadi Brebes: Dari Cherry Rp10.000 ke Green Bean Rp165.000 - Trubus",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "c9f7256a34716ce3bf63",
+      "document_id": 960,
+      "source_url": "https://trubus.id/kopi-arabika-sridadi-brebes/",
+      "source_title": "Kopi Arabika Sridadi Brebes: Dari Cherry Rp10.000 ke Green Bean Rp165.000 - Trubus",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "9945d4d2bcee23e42170",
+      "document_id": 960,
+      "source_url": "https://trubus.id/kopi-arabika-sridadi-brebes/",
+      "source_title": "Kopi Arabika Sridadi Brebes: Dari Cherry Rp10.000 ke Green Bean Rp165.000 - Trubus",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "1825ddf6208104447ea4",
+      "document_id": 963,
+      "source_url": "https://mongabay.co.id/2022/08/20/cerita-para-pemuda-tuai-keberkahan-dari-panen-kopi-musiman/",
+      "source_title": "Cerita Para Pemuda Tuai Keberkahan Dari Panen Kopi Musiman",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "2e5551453b3e2f39e3e6",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "bd811a0a4ece4d2e023e",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "b4db607304c428b4bb2c",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "f495e4f408e663073ac1",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "96d328ebd43f3781855e",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "bd6c91715f38a7508ca1",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "c5c4b9458bcb45276751",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "87323d89725a37958d12",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "38c0bcb53d89ed68e777",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "fbbbff3900d92d74242f",
+      "document_id": 975,
+      "source_url": "https://papuabangkit.com/2023/05/28/hadiri-expo-kopi-papua-2023-ini-harapan-petani-kopi-asal-pegunungan-bintang/",
+      "source_title": "Hadiri Expo Kopi Papua 2023, Ini Harapan Petani Kopi Asal Pegunungan Bintang - Papua Bangkit",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "5b2e1a31c61217cab296",
+      "document_id": 986,
+      "source_url": "https://timesindonesia.co.id/peristiwa-daerah/292309/petani-kopi-di-desa-telemung-banyuwangi-dikenalkan-metode-honey-process",
+      "source_title": "Petani Kopi di Desa Telemung Banyuwangi Dikenalkan Metode Honey Process",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "a9d69f7896e106c8e10e",
+      "document_id": 986,
+      "source_url": "https://timesindonesia.co.id/peristiwa-daerah/292309/petani-kopi-di-desa-telemung-banyuwangi-dikenalkan-metode-honey-process",
+      "source_title": "Petani Kopi di Desa Telemung Banyuwangi Dikenalkan Metode Honey Process",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "d9b7dd92bc971bfe74ef",
+      "document_id": 998,
+      "source_url": "https://www.kompas.com/food/read/2026/05/27/183000375/daftar-9-kopi-terbaik-di-indonesia-menurut-tasteatlas-apa-saja-",
+      "source_title": "Daftar 9 Kopi Terbaik di Indonesia Menurut TasteAtlas, Apa Saja?",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "aace2faad838d4395c2c",
+      "document_id": 999,
+      "source_url": "https://geotimes.id/opini/potensi-tantangan-dan-peran-dalam-industri-kopi-di-indonesia/",
+      "source_title": "Potensi, Tantangan, dan Peran dalam Industri Kopi di Indonesia | GEOTIMES",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "25dac98a5c780f064728",
+      "document_id": 1017,
+      "source_url": "https://malang-post.com/2026/09/24/kepala-bakorwil-malang-dorong-kopi-amstirdam-naik-kelas-menuju-pasar-global/",
+      "source_title": "malang-post.com - Kepala Bakorwil Malang Dorong Kopi Amstirdam Naik Kelas Menuju Pasar Global",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "76cc592aaa569303a05e",
+      "document_id": 1019,
+      "source_url": "https://jurnalborneo.com/lapas-samarinda-latih-16-wbp-jadi-barista/",
+      "source_title": "Lapas Samarinda Latih 16 WBP Jadi Barista - Jurnal Borneo",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "8bac467239f67fb01936",
+      "document_id": 1020,
+      "source_url": "https://food.detik.com/info-kuliner/d-8463350/barista-beginner-class-cara-tepat-memulai-karier-di-dunia-kopi-dari-nol",
+      "source_title": "Barista Beginner Class! Cara Tepat Memulai Karier di Dunia Kopi dari Nol",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "52f978aac0c5f8cff559",
+      "document_id": 1024,
+      "source_url": "https://kemdiktisaintek.go.id/en/news/article/dosen-polije-perkuat-kompetensi-mahasiswa-lewat-pelatihan-pemeliharaan-dan-pengukuran-kopi-robusta",
+      "source_title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "ad9e1b2f9ec7e7da81af",
+      "document_id": 1025,
+      "source_url": "https://lahatpos.disway.id/lahat/read/662047/kolaborasi-pt-mas-dan-dinas-perkebunan-lahat-gelar-pelatihan-budidaya-kopi-bagi-petani-kopi-di-merapi-area",
+      "source_title": "Kolaborasi PT MAS dan Dinas Perkebunan Lahat Gelar Pelatihan Budidaya Kopi Bagi Petani Kopi di Merapi Area",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "4f60d3a90e6e53a89293",
+      "document_id": 1025,
+      "source_url": "https://lahatpos.disway.id/lahat/read/662047/kolaborasi-pt-mas-dan-dinas-perkebunan-lahat-gelar-pelatihan-budidaya-kopi-bagi-petani-kopi-di-merapi-area",
+      "source_title": "Kolaborasi PT MAS dan Dinas Perkebunan Lahat Gelar Pelatihan Budidaya Kopi Bagi Petani Kopi di Merapi Area",
+      "date_candidates": [
+        {
+          "start_date": "2026-05-21",
+          "end_date": "2026-05-21",
+          "date_text": "21 Mei 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "0e7b134a1ed0a7bf15a9",
+      "document_id": 1025,
+      "source_url": "https://lahatpos.disway.id/lahat/read/662047/kolaborasi-pt-mas-dan-dinas-perkebunan-lahat-gelar-pelatihan-budidaya-kopi-bagi-petani-kopi-di-merapi-area",
+      "source_title": "Kolaborasi PT MAS dan Dinas Perkebunan Lahat Gelar Pelatihan Budidaya Kopi Bagi Petani Kopi di Merapi Area",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "a7ef5911ce99f9d3af5b",
+      "document_id": 1025,
+      "source_url": "https://lahatpos.disway.id/lahat/read/662047/kolaborasi-pt-mas-dan-dinas-perkebunan-lahat-gelar-pelatihan-budidaya-kopi-bagi-petani-kopi-di-merapi-area",
+      "source_title": "Kolaborasi PT MAS dan Dinas Perkebunan Lahat Gelar Pelatihan Budidaya Kopi Bagi Petani Kopi di Merapi Area",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "4b7b708042c35a4b5bb5",
+      "document_id": 1025,
+      "source_url": "https://lahatpos.disway.id/lahat/read/662047/kolaborasi-pt-mas-dan-dinas-perkebunan-lahat-gelar-pelatihan-budidaya-kopi-bagi-petani-kopi-di-merapi-area",
+      "source_title": "Kolaborasi PT MAS dan Dinas Perkebunan Lahat Gelar Pelatihan Budidaya Kopi Bagi Petani Kopi di Merapi Area",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "7055274e0759879174be",
+      "document_id": 1025,
+      "source_url": "https://lahatpos.disway.id/lahat/read/662047/kolaborasi-pt-mas-dan-dinas-perkebunan-lahat-gelar-pelatihan-budidaya-kopi-bagi-petani-kopi-di-merapi-area",
+      "source_title": "Kolaborasi PT MAS dan Dinas Perkebunan Lahat Gelar Pelatihan Budidaya Kopi Bagi Petani Kopi di Merapi Area",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "b1c453f845a6f783eac7",
+      "document_id": 1025,
+      "source_url": "https://lahatpos.disway.id/lahat/read/662047/kolaborasi-pt-mas-dan-dinas-perkebunan-lahat-gelar-pelatihan-budidaya-kopi-bagi-petani-kopi-di-merapi-area",
+      "source_title": "Kolaborasi PT MAS dan Dinas Perkebunan Lahat Gelar Pelatihan Budidaya Kopi Bagi Petani Kopi di Merapi Area",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "c219de7d673ef532a2ee",
+      "document_id": 1026,
+      "source_url": "https://sulselprov.go.id/berita/wagub-fatmawati-pacu-toraja-utara-jadi-sentra-kopi-lewat-pelatihan-barista-plut-kumkm",
+      "source_title": "Wagub Fatmawati Pacu Toraja Utara Jadi Sentra Kopi Lewat Pelatihan Barista PLUT KUMKM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "74aac394359b2678812b",
+      "document_id": 1026,
+      "source_url": "https://sulselprov.go.id/berita/wagub-fatmawati-pacu-toraja-utara-jadi-sentra-kopi-lewat-pelatihan-barista-plut-kumkm",
+      "source_title": "Wagub Fatmawati Pacu Toraja Utara Jadi Sentra Kopi Lewat Pelatihan Barista PLUT KUMKM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "e4e4b3ff24bc9c246956",
+      "document_id": 1028,
+      "source_url": "https://probolinggokab.go.id/dwp-dkupp-kabupaten-probolinggo-tingkatkan-keterampilan-anggota-melalui-pelatihan-barista-kopi/",
+      "source_title": "DWP DKUPP Kabupaten Probolinggo Tingkatkan Keterampilan Anggota Melalui Pelatihan Barista Kopi",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "eeb1722eea773d678198",
+      "document_id": 1028,
+      "source_url": "https://probolinggokab.go.id/dwp-dkupp-kabupaten-probolinggo-tingkatkan-keterampilan-anggota-melalui-pelatihan-barista-kopi/",
+      "source_title": "DWP DKUPP Kabupaten Probolinggo Tingkatkan Keterampilan Anggota Melalui Pelatihan Barista Kopi",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
       "id": "source-824",
       "document_id": 824,
       "source_url": "https://cafebrasserieexpo.com/programs",
@@ -1506,5 +1847,5 @@
     }
   ],
   "notes": "Tanggal event dipisahkan dari tanggal terbit. Kandidat belum menjadi agenda terkonfirmasi. Jadwal dapat berubah; periksa sumber resmi.",
-  "updated_at": "2026-10-08T13:31:39.720464+00:00"
+  "updated_at": "2026-10-08T13:37:07.805862+00:00"
 }
