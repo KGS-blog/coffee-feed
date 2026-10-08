@@ -1,7 +1,7 @@
 {
   "schema": "mevo-events-v1",
   "timezone": "Asia/Jakarta",
-  "count": 8,
+  "count": 10,
   "events": [
     {
       "id": "event-a7989cf54588e6c0",
@@ -21,6 +21,26 @@
         }
       ],
       "date_basis": "15 – 17 Mei 2025",
+      "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
+    },
+    {
+      "id": "event-281cfa4a385591d2",
+      "name": "Festival Kopi",
+      "start_date": "2025-09-20",
+      "end_date": "2025-09-22",
+      "location": null,
+      "country": null,
+      "organizer": null,
+      "category": "Coffee-related event",
+      "date_status": "SOURCE_EXTRACTED",
+      "sources": [
+        {
+          "url": "https://jubi.id/lapago/2025/arnos-urwan-anak-muda-pegunungan-bintang-angkat-kopi-papua-ke-panggung-dunia/",
+          "document_id": 953,
+          "kind": "growth_article"
+        }
+      ],
+      "date_basis": "20-22 September 2025",
       "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
     },
     {
@@ -142,6 +162,26 @@
       "note": "Rundown terperinci belum tersedia; jadwal mengikuti halaman resmi saat diperiksa."
     },
     {
+      "id": "event-becfb283443bd495",
+      "name": "Festival Kopi",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "location": null,
+      "country": null,
+      "organizer": null,
+      "category": "Coffee-related event",
+      "date_status": "SOURCE_EXTRACTED",
+      "sources": [
+        {
+          "url": "https://ketik.com/pacitan/wisata-kuliner/ada-1000-cup-kopi-gratis-di-festival-kopi-pacitan-8-9-oktober-kerek-produk-lokal-naik-kelas",
+          "document_id": 919,
+          "kind": "growth_article"
+        }
+      ],
+      "date_basis": "9 Oktober 2026",
+      "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
+    },
+    {
       "id": "event-fca843e543949e57",
       "name": "Trade Expo Indonesia (TEI)",
       "start_date": "2026-10-14",
@@ -167,7 +207,7 @@
       "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
     }
   ],
-  "candidate_count": 112,
+  "candidate_count": 130,
   "candidates": [
     {
       "id": "3fa4a2e03fb9c62c9ed4",
@@ -1180,6 +1220,196 @@
       "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
     },
     {
+      "id": "5ecfac84c4b5c04ea3a6",
+      "document_id": 910,
+      "source_url": "https://www.viva.co.id/gaya-hidup/1933980-dari-aceh-hingga-papua-ini-kekayaan-kopi-indonesia-yang-tak-banyak-diketahui",
+      "source_title": "Dari Aceh hingga Papua, Ini Kekayaan Kopi Indonesia yang Tak Banyak Diketahui",
+      "date_candidates": [
+        {
+          "start_date": "2026-10-01",
+          "end_date": "2026-10-01",
+          "date_text": "1 Oktober 2026"
+        },
+        {
+          "start_date": "2026-09-30",
+          "end_date": "2026-09-30",
+          "date_text": "30 September 2026"
+        },
+        {
+          "start_date": "2026-09-30",
+          "end_date": "2026-09-30",
+          "date_text": "30 September 2026"
+        },
+        {
+          "start_date": "2026-09-29",
+          "end_date": "2026-09-29",
+          "date_text": "29 September 2026"
+        },
+        {
+          "start_date": "2026-09-28",
+          "end_date": "2026-09-28",
+          "date_text": "28 September 2026"
+        },
+        {
+          "start_date": "2026-09-27",
+          "end_date": "2026-09-27",
+          "date_text": "27 September 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "eedda3916a26dc8ceafb",
+      "document_id": 922,
+      "source_url": "https://kerincisatu.kerincikab.go.id/bupati-monadi-tutup-festival-kopi-kerinci-2026-semangat-masyarakat-jadi-kekuatan-majukan-kopi-kerinci/",
+      "source_title": "Bupati Monadi Tutup Festival Kopi Kerinci 2026, Semangat Masyarakat Jadi Kekuatan Majukan Kopi Kerinci - KerinciSatu",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "b2851bcf08920f0d0578",
+      "document_id": 922,
+      "source_url": "https://kerincisatu.kerincikab.go.id/bupati-monadi-tutup-festival-kopi-kerinci-2026-semangat-masyarakat-jadi-kekuatan-majukan-kopi-kerinci/",
+      "source_title": "Bupati Monadi Tutup Festival Kopi Kerinci 2026, Semangat Masyarakat Jadi Kekuatan Majukan Kopi Kerinci - KerinciSatu",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "1af6400168aef7cdd518",
+      "document_id": 922,
+      "source_url": "https://kerincisatu.kerincikab.go.id/bupati-monadi-tutup-festival-kopi-kerinci-2026-semangat-masyarakat-jadi-kekuatan-majukan-kopi-kerinci/",
+      "source_title": "Bupati Monadi Tutup Festival Kopi Kerinci 2026, Semangat Masyarakat Jadi Kekuatan Majukan Kopi Kerinci - KerinciSatu",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "9c8d2c5a71169e77e527",
+      "document_id": 922,
+      "source_url": "https://kerincisatu.kerincikab.go.id/bupati-monadi-tutup-festival-kopi-kerinci-2026-semangat-masyarakat-jadi-kekuatan-majukan-kopi-kerinci/",
+      "source_title": "Bupati Monadi Tutup Festival Kopi Kerinci 2026, Semangat Masyarakat Jadi Kekuatan Majukan Kopi Kerinci - KerinciSatu",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "1284ae6d5adb6af23f1d",
+      "document_id": 922,
+      "source_url": "https://kerincisatu.kerincikab.go.id/bupati-monadi-tutup-festival-kopi-kerinci-2026-semangat-masyarakat-jadi-kekuatan-majukan-kopi-kerinci/",
+      "source_title": "Bupati Monadi Tutup Festival Kopi Kerinci 2026, Semangat Masyarakat Jadi Kekuatan Majukan Kopi Kerinci - KerinciSatu",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "577741dd60c7518b30d7",
+      "document_id": 923,
+      "source_url": "https://jateng.antaranews.com/berita/645829/pre-event-double-decker-coffee-festival-sambut-puncak-festival-kopi-solo-raya",
+      "source_title": "Pre-Event Double Decker Coffee Festival sambut puncak Festival Kopi Solo Raya - ANTARA News Jateng",
+      "date_candidates": [
+        {
+          "start_date": "2026-09-19",
+          "end_date": "2026-09-19",
+          "date_text": "19 September 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "f69f5f091c7ea5165231",
+      "document_id": 923,
+      "source_url": "https://jateng.antaranews.com/berita/645829/pre-event-double-decker-coffee-festival-sambut-puncak-festival-kopi-solo-raya",
+      "source_title": "Pre-Event Double Decker Coffee Festival sambut puncak Festival Kopi Solo Raya - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "f09852f4175f25cebfc1",
+      "document_id": 923,
+      "source_url": "https://jateng.antaranews.com/berita/645829/pre-event-double-decker-coffee-festival-sambut-puncak-festival-kopi-solo-raya",
+      "source_title": "Pre-Event Double Decker Coffee Festival sambut puncak Festival Kopi Solo Raya - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "415272ccd77c4da101ee",
+      "document_id": 923,
+      "source_url": "https://jateng.antaranews.com/berita/645829/pre-event-double-decker-coffee-festival-sambut-puncak-festival-kopi-solo-raya",
+      "source_title": "Pre-Event Double Decker Coffee Festival sambut puncak Festival Kopi Solo Raya - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "e5c823dd91f37e0c02fd",
+      "document_id": 926,
+      "source_url": "https://malangvoice.com/kopi-lokal-malang-dibawa-keluar-dari-lingkaran-komunitas-pasar-kopi-lokal-2026-targetkan-4-000-pengunjung/",
+      "source_title": "Kopi Lokal Malang Dibawa Keluar dari Lingkaran Komunitas, Pasar Kopi Lokal 2026 Targetkan 4.000 Pengunjung - MalangVoice",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "8dd5cbe924b5ccd1484d",
+      "document_id": 927,
+      "source_url": "https://papua.antaranews.com/berita/768845/pemprov-fasilitasi-ekspor-kopi-asli-papua-pegunungan-ke-australia",
+      "source_title": "Pemprov fasilitasi ekspor kopi asli Papua Pegunungan ke Australia",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "111a00777a2a4e36f76a",
+      "document_id": 931,
+      "source_url": "https://rri.co.id/takengon/regional/2442857/kebijakan-green-economy-dalam-sektor-perkebunan-kopi-gayo",
+      "source_title": "Kebijakan Green Economy dalam Sektor Perkebunan Kopi Gayo - RRI.co.id",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "111f13b7b38deeaa58b9",
+      "document_id": 938,
+      "source_url": "https://www.kompas.com/food/read/2025/05/22/183100475/harga-kopi-sumatera-utara-meningkat-tren-coffee-shop-jadi-alasannya",
+      "source_title": "Harga Kopi Sumatera Utara Meningkat, Tren Coffee Shop Jadi Alasannya",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "dda8d9e5510f2f3885d9",
+      "document_id": 938,
+      "source_url": "https://www.kompas.com/food/read/2025/05/22/183100475/harga-kopi-sumatera-utara-meningkat-tren-coffee-shop-jadi-alasannya",
+      "source_title": "Harga Kopi Sumatera Utara Meningkat, Tren Coffee Shop Jadi Alasannya",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "02a46510c683420deb31",
+      "document_id": 941,
+      "source_url": "https://www.kompas.com/food/read/2025/05/24/200800675/begini-proses-pascapanen-kopi-sumatera-utara-sebelum-diekspor-",
+      "source_title": "Begini Proses Pascapanen Kopi Sumatera Utara Sebelum Diekspor ",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "f096e6fd8097743b8872",
+      "document_id": 942,
+      "source_url": "https://www.tvonenews.com/daerah/sumatera/135647-kopi-robusta-sidikalang-asal-sumatera-utara-mengalami-kenaikan-harga",
+      "source_title": "Kopi Robusta Sidikalang Asal Sumatera Utara Mengalami Kenaikan Harga",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
       "id": "source-824",
       "document_id": 824,
       "source_url": "https://cafebrasserieexpo.com/programs",
@@ -1266,8 +1496,15 @@
       "source_url": "https://rri.co.id/yogyakarta/regional/2678632/jogja-coffee-week-ruang-pengembangan-kopi-bernilai-tambah",
       "status": "DATE_CONFLICT",
       "reason": "Sumber menyebut rentang tanggal berbeda; perlu pemeriksaan."
+    },
+    {
+      "id": "event-75ad4a54fb63dc72",
+      "source_title": "Festival Kopi",
+      "source_url": "https://ketik.com/pacitan/wisata-kuliner/ada-1000-cup-kopi-gratis-di-festival-kopi-pacitan-8-9-oktober-kerek-produk-lokal-naik-kelas",
+      "status": "DATE_CONFLICT",
+      "reason": "Sumber menyebut rentang tanggal berbeda; perlu pemeriksaan."
     }
   ],
   "notes": "Tanggal event dipisahkan dari tanggal terbit. Kandidat belum menjadi agenda terkonfirmasi. Jadwal dapat berubah; periksa sumber resmi.",
-  "updated_at": "2026-10-08T13:25:47.845170+00:00"
+  "updated_at": "2026-10-08T13:31:39.720464+00:00"
 }
