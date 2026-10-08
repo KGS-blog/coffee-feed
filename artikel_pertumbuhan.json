@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T13:37:44.008815+00:00",
+  "generated_at": "2026-10-08T13:40:15.153886+00:00",
   "description": "Metadata dan tautan artikel Pertumbuhan Informasi yang lolos uji relevansi MEVO. Teks lengkap tetap berada di sumber asli.",
   "content_policy": "Feed hanya memuat metadata dan tautan. Teks lengkap tidak disalin tanpa izin publikasi.",
-  "count": 669,
+  "count": 671,
   "articles": [
     {
       "id": 927,
@@ -201,6 +201,14 @@
       "id": 781,
       "title": "Menko PM: Kopi Manglayang potensi besar tingkatkan ekonomi masyarakat",
       "url": "https://www.antaranews.com/berita/5775768/menko-pm-kopi-manglayang-potensi-besar-tingkatkan-ekonomi-masyarakat",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 1062,
+      "title": "Menikmati Eksotisme Kopi Banyuwangi Lewat Coffee Lab Kokoon Hotel",
+      "url": "https://jatimnow.com/baca-88126-menikmati-eksotisme-kopi-banyuwangi-lewat-coffee-lab-kokoon-hotel",
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-10-07"
@@ -5311,6 +5319,13 @@
       "id": 11,
       "title": "Indonesia-Coffee.com | PT FoodHub Collective Indonesia Pemasok Kopi Premium Indonesia Cita Rasa Otentik Menghubungkan dunia dengan kekayaan cita…",
       "url": "https://www.indonesia-coffee.com/docs/company-profile/indonesia-coffee-company-profile-id.pdf",
+      "material_type": "growth",
+      "relevance": "CORE"
+    },
+    {
+      "id": 1059,
+      "title": "Kedai Kopi: Bisnis yang Terus Menjamur",
+      "url": "https://www.ums.ac.id/berita/teropong-jagat/kedai-kopi-bisnis-yang-terus-menjamur",
       "material_type": "growth",
       "relevance": "CORE"
     },
