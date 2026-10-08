@@ -1,10 +1,82 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T13:24:17.201818+00:00",
+  "generated_at": "2026-10-08T13:26:25.541803+00:00",
   "description": "Metadata dan tautan artikel Pertumbuhan Informasi yang lolos uji relevansi MEVO. Teks lengkap tetap berada di sumber asli.",
   "content_policy": "Feed hanya memuat metadata dan tautan. Teks lengkap tidak disalin tanpa izin publikasi.",
-  "count": 504,
+  "count": 544,
   "articles": [
+    {
+      "id": 903,
+      "title": "Menanam dan Memanen Kopi: Aksi Ekoteologi KKN UINSU di Pamatang Sidamanik",
+      "url": "https://www.kompasiana.com/taniaalyariskysimangunsong5991/6ac69d0f34777c61ee1a8d22/menanam-dan-memanen-kopi-aksi-ekoteologi-kkn-uinsu-di-pamatang-sidamanik",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-08"
+    },
+    {
+      "id": 852,
+      "title": "Kafein Matcha vs Kopi, Mana yang Lebih Tinggi?",
+      "url": "https://kopi.online/kafein-matcha-vs-kopi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-08"
+    },
+    {
+      "id": 846,
+      "title": "Video: Ekspor Kopi RI Rekor Tapi Produksi Belum Bisa Saingi Brazil Cs",
+      "url": "https://www.cnbcindonesia.com/news/20261008102107-8-774332/video-ekspor-kopi-ri-rekor-tapi-produksi-belum-bisa-saingi-brazil-cs",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-08"
+    },
+    {
+      "id": 843,
+      "title": "Berita pertanian hari ini (8 Oktober): Harga kopi naik sedikit.",
+      "url": "https://www.vietnam.vn/id/ban-tin-nong-san-hom-nay-8-10-gia-ca-phe-tang-nhe",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-08"
+    },
+    {
+      "id": 842,
+      "title": "Harga produk pertanian hari ini, 8 Oktober 2026: Harga kopi domestik diperkirakan tidak akan turun setajam harga global; Harga lada turun signifikan; Impor AS mencapai tingkat yang belum pernah terjadi sebelumnya.",
+      "url": "https://www.vietnam.vn/id/gia-nong-san-hom-nay-8-10-2026-gia-ca-phe-trong-nuoc-kho-giam-sau-nhu-the-gioi-gia-tieu-giam-manh-nhap-khau-vao-my-cao-chua-tung-co",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-08"
+    },
+    {
+      "id": 841,
+      "title": "DLHK Kalbar Perkuat Ekonomi Petani Lahan Gambut, 9 KTH Kembangkan Kopi Liberika",
+      "url": "https://www.suarakalbar.co.id/2026/10/dlhk-kalbar-perkuat-ekonomi-petani-lahan-gambut-9-kth-kembangkan-kopi-liberika/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-08"
+    },
+    {
+      "id": 840,
+      "title": "Meningkatkan Kualitas Kopi Robusta Vietnam: Dari penjualan massal hingga penjualan dengan harga lebih tinggi.",
+      "url": "https://www.vietnam.vn/id/nang-tam-robusta-viet-tu-ban-nhieu-den-ban-co-gia",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-08"
+    },
+    {
+      "id": 853,
+      "title": "Roasting Kopi Artinya Apa? Pengertian dan Jenisnya",
+      "url": "https://kopi.online/roasting-kopi-artinya/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 844,
+      "title": "Menko Muhaimin Dorong Nilai Tambah Kopi Kembali ke Petani - RRI.co.id",
+      "url": "https://rri.co.id/nasional/2794602/menko-muhaimin-dorong-nilai-tambah-kopi-kembali-ke-petani",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
     {
       "id": 797,
       "title": "Panduan Lengkap Kopi Strong: Karakter dan Varietas",
@@ -86,6 +158,14 @@
       "published_date": "2026-10-07"
     },
     {
+      "id": 854,
+      "title": "Cara Roasting Kopi Manual dengan Wajan | Kopi Online",
+      "url": "https://kopi.online/cara-roasting-kopi-manual/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-06"
+    },
+    {
       "id": 816,
       "title": "Refurbishments, drive-thru and matcha: how Costa Coffee got its mojo back",
       "url": "https://www.worldcoffeeportal.com/news/refurbishments-drive-thru-and-matcha-how-costa-coffee-got-its-mojo-back/",
@@ -156,6 +236,14 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-10-06"
+    },
+    {
+      "id": 855,
+      "title": "Roasting Kopi Manual untuk Pemula, Alat & Caranya",
+      "url": "https://kopi.online/roasting-kopi-manual/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-05"
     },
     {
       "id": 678,
@@ -302,6 +390,14 @@
       "published_date": "2026-10-05"
     },
     {
+      "id": 902,
+      "title": "Dukung Potensi Kebun Kopi Liberika Pak Sahril, Thariq Siapkan Mesin Baja Menuju Komoditas Unggulan",
+      "url": "https://read.id/dukung-potensi-kebun-kopi-liberika-pak-sahril-thariq-siapkan-mesin-baja-menuju-komoditas-unggulan/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-04"
+    },
+    {
       "id": 574,
       "title": "Kritik Ekosistem Kopi Depok: Jangan Main Sendiri, Saatnya Kolaborasi Garap Pasar - Stapo.id",
       "url": "https://www.stapo.id/news/kritik-ekosistem-kopi-depok-jangan/",
@@ -372,6 +468,38 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-10-03"
+    },
+    {
+      "id": 891,
+      "title": "Dari Cisolok ke Pasar Global, Kopi Gunung Kramat Sukabumi Diperkuat Teknologi Pascapanen - Sukabuminow.com; Dari Cisolok ke Pasar Global, Kopi Gunung Kramat Sukabumi Diperkuat Teknologi Pascapanen - Sukabuminow.com",
+      "url": "https://sukabuminow.com/kopi-gunung-kramat-sukabumi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 864,
+      "title": "104 Kreator dari 24 Kota Ramaikan Gerakan ‘Bondowoso Republik Kopi’ - Radar Bangsa",
+      "url": "https://radarbangsa.co.id/104-kreator-dari-24-kota-ramaikan-gerakan-bondowoso-republik-kopi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 856,
+      "title": "Cara Roasting Kopi dari Green Bean sampai Siap Seduh",
+      "url": "https://kopi.online/cara-roasting-kopi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 850,
+      "title": "Secangkir Kopi Pesawaran, Sejuta Cerita dari Rumah Petani Hutan",
+      "url": "https://www.kompasiana.com/yopiefranz/6abf2bedc925c411ff44df5f/secangkir-kopi-pesawaran-sejuta-cerita-dari-rumah-petani-hutan",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-02"
     },
     {
       "id": 575,
@@ -446,6 +574,14 @@
       "published_date": "2026-10-02"
     },
     {
+      "id": 857,
+      "title": "Mesin Roasting Kopi Jenis, Kapasitas, dan Tips Memilih",
+      "url": "https://kopi.online/mesin-roasting-kopi/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-01"
+    },
+    {
       "id": 566,
       "title": "Coffee industry senior appointments: September 2026",
       "url": "https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-september-2026/",
@@ -510,6 +646,14 @@
       "published_date": "2026-10-01"
     },
     {
+      "id": 858,
+      "title": "Espresso Macchiato Komposisi, Rasa, dan Cara Membuatnya",
+      "url": "https://kopi.online/espresso-macchiato/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-30"
+    },
+    {
       "id": 472,
       "title": "Signature Coffee Artinya: Menu Khas & Budaya Kafe",
       "url": "https://arutalacoffee.com/blog/signature-coffee-artinya-menu-khas-budaya-kafe",
@@ -564,6 +708,22 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-09-30"
+    },
+    {
+      "id": 862,
+      "title": "Roemah Koffie Bawa Pelanggan Menyelami Cerita Kopi lewat Omakase Coffee Experience - Industry.co.id",
+      "url": "https://www.industry.co.id/read/156686/roemah-koffie-bawa-pelanggan-menyelami-cerita-kopi-lewat-omakase-coffee-experience",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-29"
+    },
+    {
+      "id": 859,
+      "title": "Rekomendasi Kopi Enak Berdasarkan Selera dan Cara Seduh",
+      "url": "https://kopi.online/rekomendasi-kopi-enak/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-29"
     },
     {
       "id": 570,
@@ -660,6 +820,14 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-09-29"
+    },
+    {
+      "id": 860,
+      "title": "Harga Green Bean Kopi per Kg Arabika, Robusta & Specialty",
+      "url": "https://kopi.online/harga-green-bean-kopi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-28"
     },
     {
       "id": 606,
@@ -836,6 +1004,14 @@
       "material_type": "growth",
       "relevance": "MIXED",
       "published_date": "2026-09-26"
+    },
+    {
+      "id": 861,
+      "title": "Kopi Gayo Arabika atau Robusta? Ini Jawabannya",
+      "url": "https://kopi.online/kopi-gayo-arabika-atau-robusta/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-25"
     },
     {
       "id": 607,
@@ -1092,6 +1268,14 @@
       "material_type": "growth",
       "relevance": "MIXED",
       "published_date": "2026-09-23"
+    },
+    {
+      "id": 865,
+      "title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-22"
     },
     {
       "id": 532,
@@ -2270,6 +2454,14 @@
       "published_date": "2026-08-31"
     },
     {
+      "id": 851,
+      "title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-08-29"
+    },
+    {
       "id": 343,
       "title": "Pemerintah Siapkan Rp 350 Miliar untuk Pengembangan Kopi dan Kakao di Lampung",
       "url": "https://www.jawapos.com/bisnis/2608280247/pemerintah-siapkan-rp-350-miliar-untuk-pengembangan-kopi-dan-kakao-di-lampung",
@@ -2294,6 +2486,14 @@
       "published_date": "2026-08-27"
     },
     {
+      "id": 900,
+      "title": "Jogja Coffee Week, Ruang Pengembangan Kopi Bernilai Tambah - RRI.co.id",
+      "url": "https://rri.co.id/yogyakarta/regional/2678632/jogja-coffee-week-ruang-pengembangan-kopi-bernilai-tambah",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-08-25"
+    },
+    {
       "id": 411,
       "title": "Coffee Decoded: Why are they called coffee “beans”? — Specialty Coffee Association",
       "url": "https://sca.coffee/sca-news/coffee-decoded-13-coffee-beans",
@@ -2308,6 +2508,22 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-08-25"
+    },
+    {
+      "id": 890,
+      "title": "Pemkab Kepahiang usulkan tujuh varietas kopi miliki lisensi nasional - ANTARA News Bengkulu",
+      "url": "https://bengkulu.antaranews.com/berita/477673/pemkab-kepahiang-usulkan-tujuh-varietas-kopi-miliki-lisensi-nasional",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-08-24"
+    },
+    {
+      "id": 863,
+      "title": "Dari Pelatihan Hingga Jurnal Ilmiah, Lucia Runggeari Angkat Cerita Kopi Papua Lewat Bahasa Inggris | Jubi Papua",
+      "url": "https://jubi.id/rilis-pers/2026/hingga-jurnal-ilmiah-lucia-runggeari/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-08-24"
     },
     {
       "id": 637,
@@ -2486,6 +2702,14 @@
       "published_date": "2026-08-03"
     },
     {
+      "id": 849,
+      "title": "Produksi Kopi Arabika Bondowoso Turun hingga 60 Persen, Harga Naik dan Permintaan Ekspor Tetap Tinggi | beritajatim.com",
+      "url": "https://beritajatim.com/produksi-kopi-arabika-bondowoso-turun-hingga-60-persen-harga-naik-dan-permintaan-ekspor-tetap-tinggi",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-07-29"
+    },
+    {
       "id": 415,
       "title": "Coffee Decoded: What is “freshly roasted” coffee? — Specialty Coffee Association",
       "url": "https://sca.coffee/sca-news/coffee-decoded-9-fresh-coffee",
@@ -2622,6 +2846,14 @@
       "published_date": "2026-07-18"
     },
     {
+      "id": 906,
+      "title": "Wisata Kebun Kopi: 4 Destinasi Amazing Terbaik 2026",
+      "url": "https://blog.kumbaya.id/2026/07/17/wisata-kebun-kopi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-07-17"
+    },
+    {
       "id": 363,
       "title": "Mentan Amran Bidik Ekspor Kopi Indonesia Tembus Rp200 Triliun",
       "url": "https://www.agrofarm.co.id/2026/07/mentan-amran-bidik-ekspor-kopi-indonesia-tembus-rp200-triliun/",
@@ -2694,6 +2926,14 @@
       "published_date": "2026-06-29"
     },
     {
+      "id": 848,
+      "title": "Perkuat Branding Republik Kopi, Bondowoso Bidik PAD dari Sektor Ekspor | beritajatim.com",
+      "url": "https://beritajatim.com/perkuat-branding-republik-kopi-bondowoso-bidik-pad-dari-sektor-ekspor",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-06-25"
+    },
+    {
       "id": 364,
       "title": "Ekspor Kopi Indonesia Tumbuh, tetapi Krisis Iklim Mengancam Masa Depan Kopi",
       "url": "https://www.agrofarm.co.id/2026/06/ekspor-kopi-indonesia-tumbuh-tetapi-krisis-iklim-mengancam-masa-depan-kopi/",
@@ -2716,6 +2956,14 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-06-15"
+    },
+    {
+      "id": 905,
+      "title": "11 Perkebunan Kopi Terkenal di Indonesia yang Mendunia - AEKI-AICE",
+      "url": "https://www.aeki-aice.org/perkebunan-kopi-indonesia/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-06-12"
     },
     {
       "id": 680,
@@ -2750,12 +2998,28 @@
       "published_date": "2026-05-11"
     },
     {
+      "id": 892,
+      "title": "Kembangkan Varietas Kopi Unggul di Tana Toraja, Warga LDII Raih Penghargaan Satyalancana Wira Karya; Kembangkan Varietas Kopi Unggul di Tana Toraja, Warga LDII Raih Penghargaan Satyalancana Wira Karya - Lembaga Dakwah Islam Indonesia",
+      "url": "https://www.ldii.or.id/kembangkan-varietas-kopi-unggul-di-tana-toraja-warga-ldii-raih-penghargaan-satyalancana-wira-karya/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-04-30"
+    },
+    {
       "id": 681,
       "title": "Indonesian Coffee Bulk Liners Vs Bagged: 2026 Cost Guide",
       "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-bulk-liners-vs-bagged-2026-cost-guide-mvgTf0",
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-04-06"
+    },
+    {
+      "id": 845,
+      "title": "Produksi Kopi Indonesia pada tahun 2026",
+      "url": "https://specialtycoffee.id/id/articles/indonesia-coffee-production-2026-global-market/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-04-04"
     },
     {
       "id": 682,
@@ -2852,6 +3116,38 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-02-09"
+    },
+    {
+      "id": 898,
+      "title": "Kopi Blitar Meledak di Panggung Nasional, Robusta Selorejo Juara Dua 2026; Kopi Blitar Meledak di Panggung Nasional, Robusta Selorejo Juara Dua 2026",
+      "url": "https://bacaini.id/kopi-blitar-meledak-panggung-nasional-robusta-selorejo-juara-2026/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-02-08"
+    },
+    {
+      "id": 901,
+      "title": "Prosesor Kopi Blitar raih juara kedua pada ajang WE Kopi Kolaborasi Season 6 - ANTARA News Jawa Timur",
+      "url": "https://jatim.antaranews.com/berita/1032614/prosesor-kopi-blitar-raih-juara-kedua-pada-ajang-we-kopi-kolaborasi-season-6",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-02-07"
+    },
+    {
+      "id": 897,
+      "title": "Prosesor Kopi Blitar raih juara kedua kategori Robusta di WE Kopi Kolaborasi Season 6 - ANTARA News Megapolitan",
+      "url": "https://megapolitan.antaranews.com/berita/494906/prosesor-kopi-blitar-raih-juara-kedua-kategori-robusta-di-we-kopi-kolaborasi-season-6",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-02-07"
+    },
+    {
+      "id": 896,
+      "title": "Membanggakan, Pria Kota Blitar Sabet Juara 2 Robusta di WE Kopi Kolaborasi Season 6",
+      "url": "https://jatim.viva.co.id/kabar/24333-membanggakan-pria-kota-blitar-sabet-juara-2-robusta-di-we-kopi-kolaborasi-season-6",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-02-07"
     },
     {
       "id": 712,
@@ -3254,6 +3550,14 @@
       "published_date": "2025-08-07"
     },
     {
+      "id": 895,
+      "title": "Natural Hydro Honey, Hibridisasi Teknik Pascapanen Kopi | Media Indonesia",
+      "url": "https://epaper.mediaindonesia.com/detail/natural-hydro-honey-hibridisasi-teknik-pascapanen-kopi",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-07-27"
+    },
+    {
       "id": 435,
       "title": "Canda Prabowo Protes Tak Diberi Kopi, Seberapa Sering Publik RI Minum Kopi? - GoodStats",
       "url": "https://goodstats.id/article/canda-prabowo-protes-tak-diberi-kopi-seberapa-sering-publik-ri-minum-kopi-lUWVb",
@@ -3646,6 +3950,14 @@
       "published_date": "2024-03-09"
     },
     {
+      "id": 847,
+      "title": "Perkebunan Kopi di Indonesia, Menjelajahi Aromanya yang Kaya - Kopi Spesial Indonesia",
+      "url": "https://specialtycoffee.id/id/articles/coffee-plantation-indonesia/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2023-12-18"
+    },
+    {
       "id": 378,
       "title": "Berita Sawit - Miliki Hasil karet, kayu manis, kopi, sawit, Kemendag Dorong Ekspor Jambi Ke Dunia Lewat Kolaborasi - InfoSAWIT",
       "url": "https://www.infosawit.com/2023/07/10/miliki-hasil-karet-kayu-manis-kopi-sawit-kemendag-dorong-ekspor-jambi-ke-dunia-lewat-kolaborasi/",
@@ -3788,6 +4100,14 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2021-12-23"
+    },
+    {
+      "id": 904,
+      "title": "6 Wisata Kopi Terbaik di Indonesia, Nikmati Sensasi Ngopi di Kebun Kopi!",
+      "url": "https://www.hipwee.com/travel/destinasi-wisata-kopi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2021-08-25"
     },
     {
       "id": 693,
