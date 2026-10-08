@@ -1,10 +1,26 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T13:26:25.541803+00:00",
+  "generated_at": "2026-10-08T13:29:05.666992+00:00",
   "description": "Metadata dan tautan artikel Pertumbuhan Informasi yang lolos uji relevansi MEVO. Teks lengkap tetap berada di sumber asli.",
   "content_policy": "Feed hanya memuat metadata dan tautan. Teks lengkap tidak disalin tanpa izin publikasi.",
-  "count": 544,
+  "count": 587,
   "articles": [
+    {
+      "id": 927,
+      "title": "Pemprov fasilitasi ekspor kopi asli Papua Pegunungan ke Australia",
+      "url": "https://papua.antaranews.com/berita/768845/pemprov-fasilitasi-ekspor-kopi-asli-papua-pegunungan-ke-australia",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-08"
+    },
+    {
+      "id": 924,
+      "title": "Kopi Alam Bekasi, Menikmati Kopi dan Suasana Asri di Tengah Kota; Kopi Alam Bekasi, Menikmati Kopi dan Suasana Asri di Tengah Kota - Chanelmuslim.com",
+      "url": "https://chanelmuslim.com/wisata/kopi-alam-bekasi-menikmati-kopi-dan-suasana-asri-di-tengah-kota",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-08"
+    },
     {
       "id": 903,
       "title": "Menanam dan Memanen Kopi: Aksi Ekoteologi KKN UINSU di Pamatang Sidamanik",
@@ -60,6 +76,30 @@
       "material_type": "growth",
       "relevance": "MIXED",
       "published_date": "2026-10-08"
+    },
+    {
+      "id": 919,
+      "title": "Ada 1.000 Cup Kopi Gratis di Festival Kopi Pacitan 8-9 Oktober, Kerek Produk Lokal Naik Kelas",
+      "url": "https://ketik.com/pacitan/wisata-kuliner/ada-1000-cup-kopi-gratis-di-festival-kopi-pacitan-8-9-oktober-kerek-produk-lokal-naik-kelas",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 910,
+      "title": "Dari Aceh hingga Papua, Ini Kekayaan Kopi Indonesia yang Tak Banyak Diketahui",
+      "url": "https://www.viva.co.id/gaya-hidup/1933980-dari-aceh-hingga-papua-ini-kekayaan-kopi-indonesia-yang-tak-banyak-diketahui",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 909,
+      "title": "Gus Fawait Branding Jember Surga Kopi Indonesia - Harian Bhirawa; Gus Fawait Branding Jember Surga Kopi Indonesia",
+      "url": "https://harianbhirawa.co.id/gus-fawait-branding-jember-surga-kopi-indonesia/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-07"
     },
     {
       "id": 853,
@@ -156,6 +196,22 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-10-07"
+    },
+    {
+      "id": 925,
+      "title": "Jumo Roso dan strategi offline to online kopi Temanggung di Surabaya -",
+      "url": "https://suaramuslim.net/jumo-roso-dan-strategi-offline-to-online-kopi-temanggung-di-surabaya/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-06"
+    },
+    {
+      "id": 913,
+      "title": "Beda Nasib FORE dengan Kopi Kenangan",
+      "url": "https://investor.id/market/456882/beda-nasib-fore-dengan-kopi-kenangan",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-06"
     },
     {
       "id": 854,
@@ -390,6 +446,14 @@
       "published_date": "2026-10-05"
     },
     {
+      "id": 928,
+      "title": "10 Hasil Pertanian dengan Nilai Ekspor Terbesar Juli 2026, Kopi di Puncak - GoodStats",
+      "url": "https://goodstats.id/article/10-hasil-pertanian-dengan-nilai-ekspor-terbesar-kopi-paling-mahal-XdTEn",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-10-04"
+    },
+    {
       "id": 902,
       "title": "Dukung Potensi Kebun Kopi Liberika Pak Sahril, Thariq Siapkan Mesin Baja Menuju Komoditas Unggulan",
       "url": "https://read.id/dukung-potensi-kebun-kopi-liberika-pak-sahril-thariq-siapkan-mesin-baja-menuju-komoditas-unggulan/",
@@ -572,6 +636,14 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-10-02"
+    },
+    {
+      "id": 926,
+      "title": "Kopi Lokal Malang Dibawa Keluar dari Lingkaran Komunitas, Pasar Kopi Lokal 2026 Targetkan 4.000 Pengunjung - MalangVoice",
+      "url": "https://malangvoice.com/kopi-lokal-malang-dibawa-keluar-dari-lingkaran-komunitas-pasar-kopi-lokal-2026-targetkan-4-000-pengunjung/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-01"
     },
     {
       "id": 857,
@@ -1358,6 +1430,14 @@
       "published_date": "2026-09-21"
     },
     {
+      "id": 922,
+      "title": "Bupati Monadi Tutup Festival Kopi Kerinci 2026, Semangat Masyarakat Jadi Kekuatan Majukan Kopi Kerinci - KerinciSatu; Bupati Monadi Tutup Festival Kopi Kerinci 2026, Semangat Masyarakat Jadi Kekuatan Majukan Kopi Kerinci",
+      "url": "https://kerincisatu.kerincikab.go.id/bupati-monadi-tutup-festival-kopi-kerinci-2026-semangat-masyarakat-jadi-kekuatan-majukan-kopi-kerinci/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-20"
+    },
+    {
       "id": 553,
       "title": "Panduan Istilah dan Cara Seduh Kopi Favorit",
       "url": "https://arutalacoffee.com/blog/panduan-istilah-dan-cara-seduh-kopi-favorit",
@@ -1396,6 +1476,14 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-09-20"
+    },
+    {
+      "id": 923,
+      "title": "Pre-Event Double Decker Coffee Festival sambut puncak Festival Kopi Solo Raya - ANTARA News Jateng",
+      "url": "https://jateng.antaranews.com/berita/645829/pre-event-double-decker-coffee-festival-sambut-puncak-festival-kopi-solo-raya",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-19"
     },
     {
       "id": 556,
@@ -2302,6 +2390,14 @@
       "published_date": "2026-09-04"
     },
     {
+      "id": 929,
+      "title": "Gula di Balik Cangkir Kopi: Riset YAGITU Ungkap Ancaman Kesehatan Gen Z Jawa Timur | beritajatim.com",
+      "url": "https://beritajatim.com/gula-di-balik-cangkir-kopi-riset-yagitu-ungkap-ancaman-kesehatan-gen-z-jawa-timur",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-09-03"
+    },
+    {
       "id": 743,
       "title": "Panduan Mesin Kopi Manual dan Coffee Preparation",
       "url": "https://arutalacoffee.com/blog/panduan-mesin-kopi-manual-dan-coffee-preparation",
@@ -2670,6 +2766,14 @@
       "published_date": "2026-08-07"
     },
     {
+      "id": 907,
+      "title": "Kebun Kopi | Syarat Tumbuh, Ketinggian & Pengaruh Rasa",
+      "url": "https://kopi.online/kebun-kopi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-08-06"
+    },
+    {
       "id": 397,
       "title": "Kopi Tak Hanya Bikin Melek, Ini 4 Manfaat Kesehatan yang Jarang Diketahui",
       "url": "https://www.jawapos.com/lifestyle/2608060270/kopi-tak-hanya-bikin-melek-ini-4-manfaat-kesehatan-yang-jarang-diketahui",
@@ -2708,6 +2812,14 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-07-29"
+    },
+    {
+      "id": 932,
+      "title": "Tonny Djogo Raih Gelar Doktor di UKSW, Ungkap Paradoks Kopi Bajawa dan Pentingnya Reformasi Kebijakan Terpadu",
+      "url": "https://kampiunnews.com/tonny-djogo-raih-gelar-doktor-di-uksw-ungkap-paradoks-kopi-bajawa-dan-pentingnya-reformasi-kebijakan-terpadu/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-07-28"
     },
     {
       "id": 415,
@@ -2910,6 +3022,14 @@
       "published_date": "2026-07-07"
     },
     {
+      "id": 930,
+      "title": "Info Kegiatan Bincang Ekonomi Daerah Sulsel: Kopi sebagai Penggerak Pembangunan, Arena Hilirisasi, dan Kolaborasi Pemangku Kepentingan - PELAKITA.ID",
+      "url": "https://pelakita.id/2026/07/02/info-kegiatan-bincang-ekonomi-daerah-sulsel-kopi-sebagai-penggerak-pembangunan-arena-hilirisasi-dan-kolaborasi-pemangku-kepentingan/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-07-02"
+    },
+    {
       "id": 653,
       "title": "Kopi Kenangan Luncurkan Laporan ESG dan Program Barista Inklusif - WARTAKOPI.COM",
       "url": "https://wartakopi.com/kopi-kenangan-luncurkan-laporan-esg-dan-program-barista-inklusif/",
@@ -2950,6 +3070,14 @@
       "published_date": "2026-06-22"
     },
     {
+      "id": 944,
+      "title": "50 Bibit dan Kisah Senyap Kopi Cibulao Menjaga Hulu Ciliwung",
+      "url": "https://www.detik.com/jabar/berita/d-8533647/50-bibit-dan-kisah-senyap-kopi-cibulao-menjaga-hulu-ciliwung",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-06-15"
+    },
+    {
       "id": 679,
       "title": "Indonesian Green Coffee HS Codes & Tariffs: 2026 Buyer Guide",
       "url": "https://www.indonesia-coffee.com/en/articles/indonesian-green-coffee-hs-codes-and-tariffs-2026-buyer-guide-nKZAqM",
@@ -2988,6 +3116,14 @@
       "material_type": "growth",
       "relevance": "MIXED",
       "published_date": "2026-05-28"
+    },
+    {
+      "id": 931,
+      "title": "Kebijakan Green Economy dalam Sektor Perkebunan Kopi Gayo - RRI.co.id",
+      "url": "https://rri.co.id/takengon/regional/2442857/kebijakan-green-economy-dalam-sektor-perkebunan-kopi-gayo",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-05-26"
     },
     {
       "id": 366,
@@ -3166,12 +3302,52 @@
       "published_date": "2026-01-26"
     },
     {
+      "id": 937,
+      "title": "Pertumbuhan Bisnis Kopi di Indonesia Semakin Meningkat : Harga Kopi Naik Drastis di Tahun 2026 - MEDIA SUARA MABES",
+      "url": "https://www.suaramabes.com/pertumbuhan-bisnis-kopi-di-indonesia-semakin-meningkat-harga-kopi-naik-drastis-di-tahun-2026/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-01-24"
+    },
+    {
+      "id": 946,
+      "title": "Sriyono Ubah Biji Kopi Mentah Jadi Bernilai Jual Tinggi - RRI.co.id",
+      "url": "https://rri.co.id/surakarta/bisnis/2124831/sriyono-ubah-biji-kopi-mentah-jadi-bernilai-jual-tinggi",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-01-22"
+    },
+    {
+      "id": 956,
+      "title": "Harga Kopi Melonjak Tajam di Bondowoso, Pengusaha Pilih Tahan Harga Jual",
+      "url": "https://timesindonesia.co.id/ekonomi/574045/harga-kopi-melonjak-tajam-di-bondowoso-pengusaha-pilih-tahan-harga-jual",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-01-19"
+    },
+    {
+      "id": 934,
+      "title": "Harga Kopi Arabika Gayo di Bener Meriah Merangkak Naik, Petani: \"Alhamdulillah\", Sedikit Ringankan Beban Masyarakat",
+      "url": "https://regional.kompas.com/read/2026/01/19/180329878/harga-kopi-arabika-gayo-di-bener-meriah-merangkak-naik-petani-alhamdulillah",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-01-19"
+    },
+    {
       "id": 714,
       "title": "Indonesian Coffee Export to UK: IPAFFS & BTOM 2026 Guide",
       "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-export-to-uk-ipaffs-and-btom-2026-guide-KfedLI",
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-01-19"
+    },
+    {
+      "id": 955,
+      "title": "Harga Kopi Bondowoso Melonjak, Pengusaha Tahan Harga Jual - RRI.co.id",
+      "url": "https://rri.co.id/jember/bisnis/2110344/harga-kopi-bondowoso-melonjak-pengusaha-tahan-harga-jual",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-01-16"
     },
     {
       "id": 715,
@@ -3454,12 +3630,36 @@
       "published_date": "2025-11-08"
     },
     {
+      "id": 933,
+      "title": "Harga Kopi Arabika Gayo di Bener Meriah Naik Dipicu Cuaca Baik dan Permintaan Tinggi",
+      "url": "https://kabarsdgs.com/sustainability/2025/11/21271/harga-kopi-arabika-gayo-di-bener-meriah-naik-dipicu-cuaca-baik-dan-permintaan-tinggi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-11-05"
+    },
+    {
+      "id": 936,
+      "title": "Harga Kopi Arabika Gayo di Bener Meriah Tembus Rp30 Ribu Per Bambu - SATUPENA.CO.ID",
+      "url": "https://satupena.co.id/2025/11/03/harga-kopi-arabika-gayo-di-bener-meriah-tembus-rp30-ribu-per-bambu/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-11-03"
+    },
+    {
       "id": 464,
       "title": "Menemukan Coffee Shop Terdekat di Jakarta: Antara Kafein, Kreativitas, dan Ketenangan - Kerta Koffie",
       "url": "https://kertakoffie.com/menemukan-coffee-shop-terdekat-di-jakarta/",
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2025-11-03"
+    },
+    {
+      "id": 935,
+      "title": "Harga Gabah Kopi Gayo Lues Kembali Melejit, Toke Beli Rp64 Ribu Per Bambu",
+      "url": "https://portalsatu.com/harga-gabah-kopi-gayo-lues-kembali-melejit-toke-beli-rp-64-ribu-per-bambu/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-10-29"
     },
     {
       "id": 317,
@@ -3492,6 +3692,14 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2025-10-06"
+    },
+    {
+      "id": 953,
+      "title": "Arnos Urwan, Anak Muda Pegunungan Bintang Angkat Kopi Papua Ke Panggung Dunia | Jubi Papua",
+      "url": "https://jubi.id/lapago/2025/arnos-urwan-anak-muda-pegunungan-bintang-angkat-kopi-papua-ke-panggung-dunia/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-09-24"
     },
     {
       "id": 465,
@@ -3574,6 +3782,14 @@
       "published_date": "2025-07-23"
     },
     {
+      "id": 957,
+      "title": "Panen, Harga Kopi Robusta Mulai Berpihak Pada Petani, Produksi Belum Bisa Penuhi Kebutuhan Pasar - Gema Surya FM",
+      "url": "https://gemasuryafm.com/2025/06/17/panen-harga-kopi-robusta-mulai-berpihak-pada-petani-produksi-belum-bisa-penuhi-kebutuhan-pasar/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-06-17"
+    },
+    {
       "id": 316,
       "title": "Kopi Arabika PTPN Kian Digemari Masyarakat Dunia - AgroIndonesia",
       "url": "https://agroindonesia.co.id/kopi-arabika-ptpn-kian-digemari-masyarakat-dunia/",
@@ -3582,12 +3798,36 @@
       "published_date": "2025-06-02"
     },
     {
+      "id": 941,
+      "title": "Begini Proses Pascapanen Kopi Sumatera Utara Sebelum Diekspor",
+      "url": "https://www.kompas.com/food/read/2025/05/24/200800675/begini-proses-pascapanen-kopi-sumatera-utara-sebelum-diekspor-",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-05-24"
+    },
+    {
+      "id": 938,
+      "title": "Harga Kopi Sumatera Utara Meningkat, Tren Coffee Shop Jadi Alasannya",
+      "url": "https://www.kompas.com/food/read/2025/05/22/183100475/harga-kopi-sumatera-utara-meningkat-tren-coffee-shop-jadi-alasannya",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-05-22"
+    },
+    {
       "id": 367,
       "title": "Kopi Indonesia Siap Mendunia - AgroIndonesia",
       "url": "https://agroindonesia.co.id/kopi-indonesia-siap-mendunia/",
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2025-05-19"
+    },
+    {
+      "id": 940,
+      "title": "Kopi dan Kelestarian Hutan Gunung Raya; Kopi dan Kelestarian Hutan Gunung Raya",
+      "url": "https://mongabay.co.id/2025/05/12/kopi-dan-kelestarian-hutan-gunung-raya/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2025-05-12"
     },
     {
       "id": 650,
@@ -3926,6 +4166,14 @@
       "published_date": "2024-10-01"
     },
     {
+      "id": 950,
+      "title": "Berkunjung ke Pengolahan Kopi CM di Bondowoso, Harga Jual Tembus Rp 350 Ribu Per Kg | beritajatim.com",
+      "url": "https://beritajatim.com/berkunjung-ke-pengolahan-kopi-cm-di-bondowoso-harga-jual-tembus-rp-350-ribu-per-kg",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2024-08-10"
+    },
+    {
       "id": 334,
       "title": "Melihat Petani Panen Kopi Arabika di Lereng Gunung Sindoro",
       "url": "https://finance.detik.com/foto-bisnis/d-7417863/melihat-petani-panen-kopi-arabika-di-lereng-gunung-sindoro",
@@ -3940,6 +4188,14 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2024-05-24"
+    },
+    {
+      "id": 943,
+      "title": "Harga Kopi Arabika Februari 2024 Rp 70 Ribu | Media Perkebunan | Media Perkebunan",
+      "url": "https://mediaperkebunan.id/berita/harga-kopi-arabika-green-bean-naik",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2024-03-20"
     },
     {
       "id": 162,
@@ -3964,6 +4220,14 @@
       "material_type": "growth",
       "relevance": "MIXED",
       "published_date": "2023-07-09"
+    },
+    {
+      "id": 942,
+      "title": "Kopi Robusta Sidikalang Asal Sumatera Utara Mengalami Kenaikan Harga",
+      "url": "https://www.tvonenews.com/daerah/sumatera/135647-kopi-robusta-sidikalang-asal-sumatera-utara-mengalami-kenaikan-harga",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2023-07-07"
     },
     {
       "id": 446,
@@ -4166,6 +4430,14 @@
       "published_date": "2020-03-29"
     },
     {
+      "id": 954,
+      "title": "Yafet Wetipo, Dosen yang Beralih Profesi Jadi Roaster Kopi",
+      "url": "https://suarapapua.com/2020/02/27/yafet-wetipo-dosen-yang-beralih-profesi-jadi-roaster-kopi/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2020-02-27"
+    },
+    {
       "id": 470,
       "title": "Produksi Kopi Indonesia Bertambah, Harga Bisa Makin Turun - Kerta Koffie",
       "url": "https://kertakoffie.com/produksi-kopi-indonesia-bertambah-harga-bisa-makin-turun/",
@@ -4206,6 +4478,22 @@
       "published_date": "2019-03-06"
     },
     {
+      "id": 947,
+      "title": "Cerita Felix Soba Meo memulai usaha dan mengangkat nama kopi bajawa",
+      "url": "https://peluangusaha.kontan.co.id/news/cerita-felix-soba-meo-memulai-usaha-dan-mengangkat-nama-kopi-bajawa",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2019-02-09"
+    },
+    {
+      "id": 951,
+      "title": "Kopi Kintamani Diminati Pasar Luar Negeri, Karena Ini Ekspor Tersendat | BALIPOST.com",
+      "url": "https://www.balipost.com/news/2018/09/10/55138/Kopi-Kintamani-Diminati-Pasar-Luar...html",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2018-09-10"
+    },
+    {
       "id": 47,
       "title": "List Eksportir Kopi Indonesia (Part 1)",
       "url": "https://www.alamatelpon.com/2017/10/list-eksportir-kopi-indonesia-part-1.html",
@@ -4228,6 +4516,55 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2011-06-23"
+    },
+    {
+      "id": 952,
+      "title": "Turis Ramai, Harga Kopi Melambung",
+      "url": "https://www.nusabali.com/berita/142504/turis-ramai-harga-kopi-melambung",
+      "material_type": "growth",
+      "relevance": "CORE"
+    },
+    {
+      "id": 949,
+      "title": "Susul Kakao, Harga Kopi Bali Melejit",
+      "url": "https://www.nusabali.com/berita/171703/susul-kakao-harga-kopi-bali-melejit",
+      "material_type": "growth",
+      "relevance": "CORE"
+    },
+    {
+      "id": 948,
+      "title": "Harga Bahan Baku Naik, Pelaku Usaha Kopi Bali Hadapi Tekanan Ganda",
+      "url": "https://www.nusabali.com/berita/224065/harga-bahan-baku-naik-pelaku-usaha-kopi-bali-hadapi-tekanan-ganda",
+      "material_type": "growth",
+      "relevance": "CORE"
+    },
+    {
+      "id": 945,
+      "title": "Banyuwangi Punya Kopi Langka Jenis Yellow Caturra dan Yellow Bourbon, Tumbuh Subur di Lereng Gunung Raung",
+      "url": "https://banyuwangikab.go.id/berita/banyuwangi-punya-kopi-langka-jenis-yellow-caturra-dan-yellow-bourbon-tumbuh-subur-di-lereng-gunung-raung",
+      "material_type": "growth",
+      "relevance": "CORE"
+    },
+    {
+      "id": 939,
+      "title": "ALKO Bongkar Rantai Harga Kopi, Petani Berpeluang Raup Nilai Lebih Besar",
+      "url": "https://www.padanginfo.com/2026/05/alko-bongkar-rantai-harga-kopi-petani.html",
+      "material_type": "growth",
+      "relevance": "CORE"
+    },
+    {
+      "id": 920,
+      "title": "Mari ke Blang Padang, Rayakan Kopi Aceh dalam BACCE 2026",
+      "url": "https://prokopim.bandaacehkota.go.id/berita/43782/mari-ke-blang-padang-rayakan-kopi-aceh-dalam-bacce-2026.html",
+      "material_type": "growth",
+      "relevance": "CORE"
+    },
+    {
+      "id": 918,
+      "title": "Deptan Himbau Petani Kopi Arabika Kintamani Tidak Budidayakan Varietas di Luar Ketentuan IG; Deptan Himbau Petani Kopi Arabika Kintamani Tidak Budidayakan Varietas di Luar Ketentuan IG",
+      "url": "https://atnews.id/portal/news/31240/deptan-himbau-petani-kopi-arabika-kintamani-tidak-budidayakan-varietas-di-luar-ketentuan-ig",
+      "material_type": "growth",
+      "relevance": "CORE"
     },
     {
       "id": 659,
