@@ -1,0 +1,637 @@
+{
+  "schema": "mevo-events-v1",
+  "timezone": "Asia/Jakarta",
+  "count": 2,
+  "events": [
+    {
+      "id": "icx-jakarta-2026",
+      "name": "Indonesia Coffee Expo Jakarta 2026",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-06",
+      "location": "Jakarta International Convention Center (JICC)",
+      "country": "Indonesia",
+      "organizer": "Dyandra Promosindo dan SCAI",
+      "category": "Coffee Expo",
+      "date_status": "REPORTED_COMPLETED",
+      "sources": [
+        {
+          "url": "https://www.stapo.id/news/icx-jakarta-2026-4/",
+          "document_id": 826,
+          "kind": "news"
+        }
+      ],
+      "note": "Event sudah selesai menurut laporan Stapo, terbit 10 September 2026."
+    },
+    {
+      "id": "cbe-9-2026",
+      "name": "Cafe & Brasserie Expo Indonesia — edisi 9",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "location": "NICE, PIK 2, Hall 5",
+      "country": "Indonesia",
+      "organizer": "PT Panorama Media",
+      "category": "Coffee / Cafe / F&B Expo",
+      "date_status": "SOURCE_CONFIRMED",
+      "sources": [
+        {
+          "url": "https://cafebrasserieexpo.com/",
+          "document_id": 823,
+          "kind": "official"
+        }
+      ],
+      "note": "Rundown terperinci belum tersedia; jadwal mengikuti halaman resmi saat diperiksa."
+    }
+  ],
+  "candidate_count": 60,
+  "candidates": [
+    {
+      "id": "459235cdfdc3eae59be7",
+      "document_id": 12,
+      "source_url": "https://www.commercialappeal.com/press-release/story/154610/fnb-coffee-marks-20-years-of-us-green-coffee-exports-targets-230-metric-tons-in-2026/",
+      "source_title": "FnB Coffee Marks 20 Years of US Green Coffee Exports, Targets 230 Metric Tons in 2026",
+      "date_candidates": [
+        {
+          "start_date": "2026-10-14",
+          "end_date": "2026-10-17",
+          "date_text": "14 to 17 October 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "82119e05d5b6b0aeb2a2",
+      "document_id": 116,
+      "source_url": "https://www.kompas.id/artikel/marselina-walu-perempuan-petani-kopi-flores-menghipnotis-penikmat-kopi-dunia",
+      "source_title": "Di Balik Kopi Arabika Organik Ngada yang Berkibar",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "533768d4005d6f0eecd7",
+      "document_id": 162,
+      "source_url": "https://mediaindonesia.com/jurnal-kopi/657624/buah-manis-dari-proses-eksperimental",
+      "source_title": "Buah Manis dari Proses Eksperimental",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "adebf6d228a794d463e1",
+      "document_id": 284,
+      "source_url": "https://www.detik.com/jabar/cirebon-raya/d-8662786/dari-lereng-ciremai-identitas-kopi-dijaga-bersiap-tebar-pesona-ke-dunia",
+      "source_title": "Dari Lereng Ciremai Identitas Kopi Dijaga, Bersiap Tebar Pesona ke Dunia",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "5166b633a8ec86a0747a",
+      "document_id": 285,
+      "source_url": "https://www.detik.com/sumbagsel/berita/d-8660113/pemprov-jambi-dorong-kopi-kerinci-masuk-pasar-eropa-asia-perkuat-bantuan-petani",
+      "source_title": "Pemprov Jambi Dorong Kopi Kerinci Masuk Pasar Eropa-Asia, Perkuat Bantuan Petani",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "33c583c71bd6df649926",
+      "document_id": 313,
+      "source_url": "https://www.jawapos.com/ekonomi/2609070206/dorong-umkm-naik-kelas-lewat-hilirisasi-kopi-kakao-dan-kelapa",
+      "source_title": "Dorong UMKM Naik Kelas Lewat Hilirisasi Kopi, Kakao, dan Kelapa ",
+      "date_candidates": [
+        {
+          "start_date": "2026-09-03",
+          "end_date": "2026-09-04",
+          "date_text": "3-4 September 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "489df52549ad6b3d4977",
+      "document_id": 313,
+      "source_url": "https://www.jawapos.com/ekonomi/2609070206/dorong-umkm-naik-kelas-lewat-hilirisasi-kopi-kakao-dan-kelapa",
+      "source_title": "Dorong UMKM Naik Kelas Lewat Hilirisasi Kopi, Kakao, dan Kelapa ",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "4516feb100b761866df6",
+      "document_id": 335,
+      "source_url": "https://www.detik.com/jabar/cirebon-raya/d-8654177/kopi-java-buana-ciremai-dari-kopi-melinjo-ke-pasar-dunia",
+      "source_title": "Kopi Java Buana Ciremai: Dari 'Kopi Melinjo' ke Pasar Dunia",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "940b3d03a4170c8e42a2",
+      "document_id": 335,
+      "source_url": "https://www.detik.com/jabar/cirebon-raya/d-8654177/kopi-java-buana-ciremai-dari-kopi-melinjo-ke-pasar-dunia",
+      "source_title": "Kopi Java Buana Ciremai: Dari 'Kopi Melinjo' ke Pasar Dunia",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "533934e3bf7a9fbe11dd",
+      "document_id": 340,
+      "source_url": "https://www.jawapos.com/ekonomi/2609070127/btn-perkuat-ekosistem-kopi-agar-naik-kelas-lewat-coffee-expo-icx-2026",
+      "source_title": "BTN Perkuat Ekosistem Kopi Agar Naik Kelas Lewat Coffee Expo (ICX) 2026",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "27ecb1f1e293dd67614b",
+      "document_id": 340,
+      "source_url": "https://www.jawapos.com/ekonomi/2609070127/btn-perkuat-ekosistem-kopi-agar-naik-kelas-lewat-coffee-expo-icx-2026",
+      "source_title": "BTN Perkuat Ekosistem Kopi Agar Naik Kelas Lewat Coffee Expo (ICX) 2026",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "085733d70558d0c3b6a0",
+      "document_id": 340,
+      "source_url": "https://www.jawapos.com/ekonomi/2609070127/btn-perkuat-ekosistem-kopi-agar-naik-kelas-lewat-coffee-expo-icx-2026",
+      "source_title": "BTN Perkuat Ekosistem Kopi Agar Naik Kelas Lewat Coffee Expo (ICX) 2026",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "5c5303bca4a1e4fccbd0",
+      "document_id": 360,
+      "source_url": "https://www.agrofarm.co.id/2026/08/kemendag-lepas-ekspor-kopi-jawa-barat-senilai-rp264-miliar-ke-inggris/",
+      "source_title": "Kemendag Lepas Ekspor Kopi Jawa Barat Senilai Rp2,64 Miliar ke Inggris",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "e8358251bb9250bff3ed",
+      "document_id": 360,
+      "source_url": "https://www.agrofarm.co.id/2026/08/kemendag-lepas-ekspor-kopi-jawa-barat-senilai-rp264-miliar-ke-inggris/",
+      "source_title": "Kemendag Lepas Ekspor Kopi Jawa Barat Senilai Rp2,64 Miliar ke Inggris",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "65e942cb6bb350f11c1d",
+      "document_id": 367,
+      "source_url": "https://agroindonesia.co.id/kopi-indonesia-siap-mendunia/",
+      "source_title": "Kopi Indonesia Siap Mendunia - AgroIndonesia",
+      "date_candidates": [
+        {
+          "start_date": "2025-05-15",
+          "end_date": "2025-05-17",
+          "date_text": "15 – 17 Mei 2025"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "1c7208ba5ff55409feb8",
+      "document_id": 372,
+      "source_url": "https://www.infosawit.com/2025/10/14/kpbn-gelar-tender-perdana-kopi-tembus-transaksi-rp340-juta/",
+      "source_title": "Berita Sawit - KPBN Gelar Tender Perdana Kopi, Tembus Transaksi Rp340 Juta - InfoSAWIT",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "c68e032ce1052e0de76e",
+      "document_id": 393,
+      "source_url": "https://regional.kompas.com/read/2026/09/11/182550778/di-kayu-aro-petani-kerinci-merayakan-kopi-yang-mulai-mendunia",
+      "source_title": "Di Kayu Aro, Petani Kerinci Merayakan Kopi yang Mulai Mendunia",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "f726b54a60e60c753d82",
+      "document_id": 412,
+      "source_url": "https://sca.coffee/sca-news/coffee-decoded-12-coffee-crema",
+      "source_title": "Coffee Decoded: Why is Coffee Crema So Important? — Specialty Coffee Association ",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "e58f15270a104a0e9863",
+      "document_id": 419,
+      "source_url": "https://sca.coffee/sca-news/coffee-decoded-7-smellwords",
+      "source_title": "Coffee Decoded: Smellwords — Specialty Coffee Association ",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "b9e4151820541961ede3",
+      "document_id": 424,
+      "source_url": "https://www.antaranews.com/berita/5765093/kemendag-tei-momentum-perkuat-merek-kopi-indonesia-di-pasar-global",
+      "source_title": "Kemendag: TEI momentum perkuat merek kopi Indonesia di pasar global",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "ab66a70ec1f881e93183",
+      "document_id": 424,
+      "source_url": "https://www.antaranews.com/berita/5765093/kemendag-tei-momentum-perkuat-merek-kopi-indonesia-di-pasar-global",
+      "source_title": "Kemendag: TEI momentum perkuat merek kopi Indonesia di pasar global",
+      "date_candidates": [
+        {
+          "start_date": "2026-10-14",
+          "end_date": "2026-10-18",
+          "date_text": "14–18 Oktober 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "8bbba4c755816f98893d",
+      "document_id": 449,
+      "source_url": "https://kopen.id/mengenal-lebih-dalam-kopi-robusta-temanggung/",
+      "source_title": "KOPEN - Kopi Robusta Temanggung, Kopi Enak dari Pulau Jawa",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "e0c96d400b699be6df7d",
+      "document_id": 494,
+      "source_url": "https://arutalacoffee.com/blog/kopi-bandung-eksplorasi-origin-tren-seduh",
+      "source_title": "Kopi Bandung: Eksplorasi Origin & Tren Seduh",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "b2f223e4b1965f530119",
+      "document_id": 496,
+      "source_url": "https://arutalacoffee.com/blog/coffee-wifi-coffee-subscription-untuk-produktivitas",
+      "source_title": "Coffee WiFi & Coffee Subscription untuk Produktivitas",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "4ee6a3ff007779979530",
+      "document_id": 505,
+      "source_url": "https://kertakoffie.com/5-daerah-kopi-arabika-gayo-yang-jarang-diketahui/",
+      "source_title": "5 Daerah Kopi Arabika Gayo Yang Jarang Diketahui - Kerta Koffie",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "8e6eb747bf1724d1fa6f",
+      "document_id": 542,
+      "source_url": "https://kopitime.id/perubahan-harga-kopi-hingga-penghujung-tahun-2026-dan-prospek-selanjutnya-1",
+      "source_title": "Perubahan Harga Kopi Hingga Penghujung Tahun 2026 dan Prospek Selanjutnya - KopiTime",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "05b9b126738cc7da497f",
+      "document_id": 543,
+      "source_url": "https://kopitime.id/dinamika-harga-kopi-sepanjang-menuju-akhir-tahun-2026-1",
+      "source_title": "Dinamika Harga Kopi Sepanjang Menuju Akhir Tahun 2026 - KopiTime",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "1173fe022ddaa422ace7",
+      "document_id": 544,
+      "source_url": "https://kopitime.id/harga-kopi-tertekan-oleh-prospek-peningkatan-produksi-brasil-1",
+      "source_title": "Harga Kopi Tertekan oleh Prospek Peningkatan Produksi Brasil - KopiTime",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "defa1fe4e9c31b75ba89",
+      "document_id": 559,
+      "source_url": "https://kopitime.id/kopi-ekselsa-wonosalam-hingga-pasar-internasional",
+      "source_title": "Kopi Ekselsa Wonosalam Hingga Pasar Internasional - KopiTime",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "fb3962d4c1af67447757",
+      "document_id": 559,
+      "source_url": "https://kopitime.id/kopi-ekselsa-wonosalam-hingga-pasar-internasional",
+      "source_title": "Kopi Ekselsa Wonosalam Hingga Pasar Internasional - KopiTime",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "2956b813d697daaefb97",
+      "document_id": 572,
+      "source_url": "https://www.stapo.id/news/garut-yellow-bourbon-jadi-primadona/",
+      "source_title": "Garut Yellow Bourbon Jadi Primadona Warung Biji di Detos Coffee & Snack Festival 2026 - Stapo.id",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "2827627748a4dceca4e6",
+      "document_id": 572,
+      "source_url": "https://www.stapo.id/news/garut-yellow-bourbon-jadi-primadona/",
+      "source_title": "Garut Yellow Bourbon Jadi Primadona Warung Biji di Detos Coffee & Snack Festival 2026 - Stapo.id",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "102dc17e345df67b9dc5",
+      "document_id": 573,
+      "source_url": "https://www.stapo.id/news/novan-kopi-jalan-terus-bisnis/",
+      "source_title": "Novan \"Kopi Jalan Terus\": Bisnis Kopi dari Zaman Dulu Sampai Sekarang Enggak Akan Mati - Stapo.id",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "898a0efb97d53f233451",
+      "document_id": 574,
+      "source_url": "https://www.stapo.id/news/kritik-ekosistem-kopi-depok-jangan/",
+      "source_title": "Kritik Ekosistem Kopi Depok: Jangan Main Sendiri, Saatnya Kolaborasi Garap Pasar - Stapo.id",
+      "date_candidates": [
+        {
+          "start_date": "2026-10-04",
+          "end_date": "2026-10-04",
+          "date_text": "4 Oktober 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "d88f32aa373c079e5e66",
+      "document_id": 574,
+      "source_url": "https://www.stapo.id/news/kritik-ekosistem-kopi-depok-jangan/",
+      "source_title": "Kritik Ekosistem Kopi Depok: Jangan Main Sendiri, Saatnya Kolaborasi Garap Pasar - Stapo.id",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "119579e028cea422c2cd",
+      "document_id": 575,
+      "source_url": "https://www.stapo.id/news/manifesto-kopi-jalan-terus-seni/",
+      "source_title": "Manifesto Kopi Jalan Terus: Seni 'Merajakan Diri' Lewat Mutu Seduhan Lokal - Stapo.id",
+      "date_candidates": [
+        {
+          "start_date": "2026-10-02",
+          "end_date": "2026-10-02",
+          "date_text": "2 Oktober 2026"
+        },
+        {
+          "start_date": "2026-10-02",
+          "end_date": "2026-10-04",
+          "date_text": "2-4 Oktober 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "7d080832058fd64d73e2",
+      "document_id": 601,
+      "source_url": "https://arutalacoffee.com/blog/nama-nama-gelas-kopi-dan-bentuk-cangkir-barista",
+      "source_title": "Nama-Nama Gelas Kopi dan Bentuk Cangkir Barista",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "0ef798bb5b7de9e38f84",
+      "document_id": 628,
+      "source_url": "https://kopitime.id/kopi-wonosalam-perpaduan-alam-dan-budaya-dalam-setiap-cangkir",
+      "source_title": "Kopi Wonosalam: Perpaduan Alam dan Budaya dalam Setiap Cangkir - KopiTime",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "61ea2f22cfa1151965b0",
+      "document_id": 628,
+      "source_url": "https://kopitime.id/kopi-wonosalam-perpaduan-alam-dan-budaya-dalam-setiap-cangkir",
+      "source_title": "Kopi Wonosalam: Perpaduan Alam dan Budaya dalam Setiap Cangkir - KopiTime",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "821fe788676ba4423701",
+      "document_id": 629,
+      "source_url": "https://kopitime.id/mengapa-kopi-wonosalam-menjadi-favorit-banyak-orang",
+      "source_title": "Mengapa Kopi Wonosalam Menjadi Favorit Banyak Orang - KopiTime",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "351d581df39e5ea6ac2e",
+      "document_id": 629,
+      "source_url": "https://kopitime.id/mengapa-kopi-wonosalam-menjadi-favorit-banyak-orang",
+      "source_title": "Mengapa Kopi Wonosalam Menjadi Favorit Banyak Orang - KopiTime",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "6416908932ee674f27a5",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [
+        {
+          "start_date": "2026-09-04",
+          "end_date": "2026-09-06",
+          "date_text": "4–6 September 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "30dca90f5d0fc6e0b278",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "947207e9d14b55809aba",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "bf84611050a5591f16bc",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "d0c3f895c966e7eafd76",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "b615063243da45c85daf",
+      "document_id": 647,
+      "source_url": "https://wartakopi.com/jcw-2026-perlihatkan-wajah-baru-industri-kopi-nusantara/",
+      "source_title": "JCW 2026 Perlihatkan Wajah Baru Industri Kopi Nusantara - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "b53473e7adeb0930466f",
+      "document_id": 647,
+      "source_url": "https://wartakopi.com/jcw-2026-perlihatkan-wajah-baru-industri-kopi-nusantara/",
+      "source_title": "JCW 2026 Perlihatkan Wajah Baru Industri Kopi Nusantara - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "8fa6fa45e6dfbff694b2",
+      "document_id": 689,
+      "source_url": "https://wartakopi.com/datang-ke-jogja-coffee-week-yuk-rehat-di-innfuse-imuno/",
+      "source_title": "Datang ke Jogja Coffee Week, Yuk Rehat di Innfuse Imuno - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "540c4c8c7c6105d5e211",
+      "document_id": 696,
+      "source_url": "https://wartakopi.com/digra-coffee-ruang-kreatif-yang-melampaui-budaya-nongkrong-di-kota-besar/",
+      "source_title": "Digra Coffee: Ruang Kreatif yang Melampaui Budaya Nongkrong di Kota Besar - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "source-823",
+      "document_id": 823,
+      "source_url": "https://cafebrasserieexpo.com/",
+      "source_title": "Cafe & Brasserie Expo Indonesia (CBE)",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    },
+    {
+      "id": "source-824",
+      "document_id": 824,
+      "source_url": "https://cafebrasserieexpo.com/programs",
+      "source_title": "Main Programs",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    },
+    {
+      "id": "source-825",
+      "document_id": 825,
+      "source_url": "https://cafebrasserieexpo.com/rundown",
+      "source_title": "Rundown",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    },
+    {
+      "id": "source-827",
+      "document_id": 827,
+      "source_url": "https://www.eventseye.com/fairs-organizers/pt.-indorich-expo-utama-5936-1.html",
+      "source_title": "Trade Shows Worldwide - PT. Indorich Expo Utama",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    },
+    {
+      "id": "source-828",
+      "document_id": 828,
+      "source_url": "https://www.indocasatrading.com/intelligence/events/",
+      "source_title": "Indonesian Coffee Events Calendar — IndoCasa Trading",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    },
+    {
+      "id": "source-831",
+      "document_id": 831,
+      "source_url": "https://globalexhibition.org/en/sub/exhibition_view.php?cat_no=24&idx=18796&offset=60",
+      "source_title": "Global Exhibition | Discover Global Trade Fairs and Industry Events",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    },
+    {
+      "id": "source-832",
+      "document_id": 832,
+      "source_url": "https://indonesiacoffeeexpo.com/",
+      "source_title": "Indonesia Coffee Expo 2026",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    },
+    {
+      "id": "source-833",
+      "document_id": 833,
+      "source_url": "https://indorichexpo.com/",
+      "source_title": "Indorich Expo | The Most Trusted International Trade Exhibition · Indorich",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    },
+    {
+      "id": "source-834",
+      "document_id": 834,
+      "source_url": "https://foodbeverageindonesia.com/",
+      "source_title": "Food & Beverage Indonesia",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    },
+    {
+      "id": "source-835",
+      "document_id": 835,
+      "source_url": "https://www.foodhotelindonesia.com/",
+      "source_title": "Food & Hospitality Indonesia (FHI) | International F&B & Hospitality Trade Show in Jakarta",
+      "status": "NEEDS_REVIEW",
+      "kind": "organizer_or_calendar",
+      "date_candidates": []
+    }
+  ],
+  "notes": "Tanggal event dipisahkan dari tanggal terbit. Kandidat belum menjadi agenda terkonfirmasi. Jadwal dapat berubah; periksa sumber resmi.",
+  "updated_at": "2026-10-08T06:22:34.421095+00:00"
+}
