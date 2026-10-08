@@ -1,7 +1,7 @@
 {
   "schema": "mevo-events-v1",
   "timezone": "Asia/Jakarta",
-  "count": 7,
+  "count": 8,
   "events": [
     {
       "id": "event-a7989cf54588e6c0",
@@ -21,6 +21,26 @@
         }
       ],
       "date_basis": "15 – 17 Mei 2025",
+      "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
+    },
+    {
+      "id": "event-0ff2a35f6b09a6fc",
+      "name": "Jogja Coffee Week 2026",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-24",
+      "location": "Yogyakarta, termasuk Jogja Coffee Week (JCW), agar tidak sekadar menjadi sarana promosi bahan baku kopi",
+      "country": null,
+      "organizer": null,
+      "category": "Coffee-related event",
+      "date_status": "SOURCE_EXTRACTED",
+      "sources": [
+        {
+          "url": "https://rri.co.id/yogyakarta/regional/2678632/jogja-coffee-week-ruang-pengembangan-kopi-bernilai-tambah",
+          "document_id": 900,
+          "kind": "growth_article"
+        }
+      ],
+      "date_basis": "24 Agustus 2026",
       "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
     },
     {
@@ -44,26 +64,6 @@
       "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
     },
     {
-      "id": "event-7d37054015f9907c",
-      "name": "Jogja Coffee Week",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-06",
-      "location": "Jogja Expo Center (JEC), Yogyakarta",
-      "country": null,
-      "organizer": null,
-      "category": "Coffee-related event",
-      "date_status": "SOURCE_EXTRACTED",
-      "sources": [
-        {
-          "url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
-          "document_id": 646,
-          "kind": "growth_article"
-        }
-      ],
-      "date_basis": "4–6 September 2026",
-      "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
-    },
-    {
       "id": "icx-jakarta-2026",
       "name": "Indonesia Coffee Expo Jakarta 2026",
       "start_date": "2026-09-04",
@@ -81,6 +81,26 @@
         }
       ],
       "note": "Event sudah selesai menurut laporan Stapo, terbit 10 September 2026."
+    },
+    {
+      "id": "event-285bc98604135c9d",
+      "name": "Jogja Coffee Week 2026",
+      "start_date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "location": "Yogyakarta maupun di Indonesia",
+      "country": null,
+      "organizer": null,
+      "category": "Coffee-related event",
+      "date_status": "SOURCE_EXTRACTED",
+      "sources": [
+        {
+          "url": "https://rri.co.id/yogyakarta/regional/2678632/jogja-coffee-week-ruang-pengembangan-kopi-bernilai-tambah",
+          "document_id": 900,
+          "kind": "growth_article"
+        }
+      ],
+      "date_basis": "6 September 2026",
+      "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
     },
     {
       "id": "event-620bde0ce753de58",
@@ -136,13 +156,18 @@
           "url": "https://www.antaranews.com/berita/5765093/kemendag-tei-momentum-perkuat-merek-kopi-indonesia-di-pasar-global",
           "document_id": 424,
           "kind": "growth_article"
+        },
+        {
+          "url": "https://www.agrofarm.co.id/2026/10/capai-rekor-tertinggi-ekspor-kopi-indonesia-tembus-usd-251-miliar/",
+          "document_id": 792,
+          "kind": "growth_article"
         }
       ],
       "date_basis": "14–18 Oktober 2026",
       "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
     }
   ],
-  "candidate_count": 79,
+  "candidate_count": 112,
   "candidates": [
     {
       "id": "3fa4a2e03fb9c62c9ed4",
@@ -702,6 +727,57 @@
       "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
     },
     {
+      "id": "6416908932ee674f27a5",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [
+        {
+          "start_date": "2026-09-04",
+          "end_date": "2026-09-06",
+          "date_text": "4–6 September 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "30dca90f5d0fc6e0b278",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "947207e9d14b55809aba",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "bf84611050a5591f16bc",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "d0c3f895c966e7eafd76",
+      "document_id": 646,
+      "source_url": "https://wartakopi.com/tahun-ini-jogja-coffee-week-perkuat-ekosistem-kopi-lewat-bisnis-dan-lelang/",
+      "source_title": "Tahun Ini Jogja Coffee Week Perkuat Ekosistem Kopi Lewat Bisnis dan Lelang - WARTAKOPI.COM",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
       "id": "b615063243da45c85daf",
       "document_id": 647,
       "source_url": "https://wartakopi.com/jcw-2026-perlihatkan-wajah-baru-industri-kopi-nusantara/",
@@ -821,6 +897,289 @@
       "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
     },
     {
+      "id": "22a29447acb617914c28",
+      "document_id": 790,
+      "source_url": "https://rri.co.id/ekonomi/bisnis/2792842/ekspor-kopi-indonesia-cetak-rekor-rp4487-triliun-pada-2025",
+      "source_title": "Ekspor Kopi Indonesia Cetak Rekor Rp44,87 triliun pada 2025 - RRI.co.id",
+      "date_candidates": [
+        {
+          "start_date": "2026-10-14",
+          "end_date": "2026-10-15",
+          "date_text": "14-15 Oktober 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "43dd264b24772846549f",
+      "document_id": 791,
+      "source_url": "https://rri.co.id/ekonomi/bisnis/2791589/tei-2026-satukan-kopi-teh-kakao-mudahkan-pembeli-temukan-produk",
+      "source_title": "TEI 2026 Satukan Kopi, Teh, Kakao, Mudahkan Pembeli Temukan Produk - RRI.co.id",
+      "date_candidates": [
+        {
+          "start_date": "2026-10-14",
+          "end_date": "2026-10-15",
+          "date_text": "14-15 Oktober 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "4f5b0e5c39f9e52c4594",
+      "document_id": 840,
+      "source_url": "https://www.vietnam.vn/id/nang-tam-robusta-viet-tu-ban-nhieu-den-ban-co-gia",
+      "source_title": "Meningkatkan Kualitas Kopi Robusta Vietnam: Dari penjualan massal hingga penjualan dengan harga lebih tinggi.",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "f326fb27509984b33929",
+      "document_id": 850,
+      "source_url": "https://www.kompasiana.com/yopiefranz/6abf2bedc925c411ff44df5f/secangkir-kopi-pesawaran-sejuta-cerita-dari-rumah-petani-hutan",
+      "source_title": "Secangkir Kopi Pesawaran, Sejuta Cerita dari Rumah Petani Hutan",
+      "date_candidates": [
+        {
+          "start_date": "2026-09-22",
+          "end_date": "2026-09-22",
+          "date_text": "22 September 2026"
+        },
+        {
+          "start_date": "2026-09-19",
+          "end_date": "2026-09-19",
+          "date_text": "19 September 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "029bf4de16f4841f0c7a",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [
+        {
+          "start_date": "2026-08-29",
+          "end_date": "2026-08-29",
+          "date_text": "29 Agustus 2026"
+        },
+        {
+          "start_date": "2026-08-28",
+          "end_date": "2026-08-30",
+          "date_text": "28-30 Agustus 2026"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "e3d3e8dc1f09baa2b955",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "d136a3e945e5a928d84f",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "57ee0ce2e10658699257",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "b66897f06c09cde7b840",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "6b2529279cd8587880a9",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "a1d0bc902668e0bc4f9c",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "abb5ce517ddb2de5fd0f",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "8e448e1f0de42d1dfecd",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "3e099796f4c96209c751",
+      "document_id": 851,
+      "source_url": "https://jateng.antaranews.com/berita/643381/cerita-kopi-di-semarak-dieng-culture-festival-2026",
+      "source_title": "Cerita kopi di  semarak \"Dieng Culture Festival\" 2026 - ANTARA News Jateng",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "a3d9081d7ffc0f4751f7",
+      "document_id": 863,
+      "source_url": "https://jubi.id/rilis-pers/2026/hingga-jurnal-ilmiah-lucia-runggeari/",
+      "source_title": "Dari Pelatihan Hingga Jurnal Ilmiah, Lucia Runggeari Angkat Cerita Kopi Papua Lewat Bahasa Inggris | Jubi Papua",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "1c1880c149e6a02e9175",
+      "document_id": 863,
+      "source_url": "https://jubi.id/rilis-pers/2026/hingga-jurnal-ilmiah-lucia-runggeari/",
+      "source_title": "Dari Pelatihan Hingga Jurnal Ilmiah, Lucia Runggeari Angkat Cerita Kopi Papua Lewat Bahasa Inggris | Jubi Papua",
+      "date_candidates": [
+        {
+          "start_date": "2025-07-14",
+          "end_date": "2025-07-14",
+          "date_text": "14 Juli 2025"
+        }
+      ],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "694465f5d7d3eeae45d0",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "3a9ce36d30d6f45690c4",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "d288521877f6a3ca5053",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "1fa237ce13759f2180c3",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "2ef5cb119ca025c62003",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "358482cdbe02a71e409e",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "2d7f155d5faec3d9913b",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "274103b5a982da935e5d",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "c02277cba4c336b40a75",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "49e76b77195a94f1d619",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "f53d7234a1e76b3c2fb1",
+      "document_id": 865,
+      "source_url": "https://www.kompas.id/artikel/barista-indonesia-bawa-cita-rasa-kopi-nusantara-ke-kancah-asia-pasifik",
+      "source_title": "Barista Indonesia Bawa Cita Rasa Kopi Nusantara ke Kancah Asia Pasifik",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
       "id": "source-824",
       "document_id": 824,
       "source_url": "https://cafebrasserieexpo.com/programs",
@@ -900,8 +1259,15 @@
       "status": "NEEDS_REVIEW",
       "kind": "organizer_or_calendar",
       "date_candidates": []
+    },
+    {
+      "id": "event-7d37054015f9907c",
+      "source_title": "Jogja Coffee Week 2026",
+      "source_url": "https://rri.co.id/yogyakarta/regional/2678632/jogja-coffee-week-ruang-pengembangan-kopi-bernilai-tambah",
+      "status": "DATE_CONFLICT",
+      "reason": "Sumber menyebut rentang tanggal berbeda; perlu pemeriksaan."
     }
   ],
   "notes": "Tanggal event dipisahkan dari tanggal terbit. Kandidat belum menjadi agenda terkonfirmasi. Jadwal dapat berubah; periksa sumber resmi.",
-  "updated_at": "2026-10-08T06:57:53.439617+00:00"
+  "updated_at": "2026-10-08T13:25:47.845170+00:00"
 }
