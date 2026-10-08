@@ -1,10 +1,154 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-06T08:13:37.961779+00:00",
+  "generated_at": "2026-10-08T13:24:17.201818+00:00",
   "description": "Metadata dan tautan artikel Pertumbuhan Informasi yang lolos uji relevansi MEVO. Teks lengkap tetap berada di sumber asli.",
   "content_policy": "Feed hanya memuat metadata dan tautan. Teks lengkap tidak disalin tanpa izin publikasi.",
-  "count": 465,
+  "count": 504,
   "articles": [
+    {
+      "id": 797,
+      "title": "Panduan Lengkap Kopi Strong: Karakter dan Varietas",
+      "url": "https://arutalacoffee.com/blog/panduan-lengkap-kopi-strong-karakter-dan-varietas",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 796,
+      "title": "Menu Restoran Mewah & Budaya Kopi Spesialti",
+      "url": "https://arutalacoffee.com/blog/menu-restoran-mewah-budaya-kopi-spesialti",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 795,
+      "title": "Coffee Shop Artinya: Budaya dan Etiket Kedai Kopi",
+      "url": "https://arutalacoffee.com/blog/coffee-shop-artinya-budaya-dan-etiket-kedai-kopi",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 793,
+      "title": "Rekomendasi Harga Kopi Arabika 7 Oktober 2026 - Vibiznews.com",
+      "url": "https://vibiznews.com/index.php/2026/10/07/rekomendasi-harga-kopi-arabika-7-oktober-2026/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 792,
+      "title": "Capai Rekor Tertinggi, Ekspor Kopi Indonesia Tembus USD 2,51 Miliar",
+      "url": "https://www.agrofarm.co.id/2026/10/capai-rekor-tertinggi-ekspor-kopi-indonesia-tembus-usd-251-miliar/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 790,
+      "title": "Ekspor Kopi Indonesia Cetak Rekor Rp44,87 triliun pada 2025 - RRI.co.id",
+      "url": "https://rri.co.id/ekonomi/bisnis/2792842/ekspor-kopi-indonesia-cetak-rekor-rp4487-triliun-pada-2025",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 787,
+      "title": "4 Zodiak Ini Perlu Membatasi Kopi, Seolah Tidak Bisa Beraktivitas Tanpa Kafein",
+      "url": "https://www.jawapos.com/zodiak/2610070267/4-zodiak-ini-perlu-membatasi-kopi-seolah-tidak-bisa-beraktivitas-tanpa-kafein",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 785,
+      "title": "5 Resep Es Kopi ala Cafe, Bisa Dibuat di Rumah",
+      "url": "https://www.kompas.com/food/read/2026/10/07/153304275/5-resep-es-kopi-ala-cafe-bisa-dibuat-di-rumah",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 784,
+      "title": "Bolehkah Makan Singkong Rebus Sambil Minum Kopi? Ini Kata Pakar",
+      "url": "https://www.kompas.com/food/read/2026/10/07/180500175/bolehkah-makan-singkong-rebus-sambil-minum-kopi-ini-kata-pakar",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 781,
+      "title": "Menko PM: Kopi Manglayang potensi besar tingkatkan ekonomi masyarakat",
+      "url": "https://www.antaranews.com/berita/5775768/menko-pm-kopi-manglayang-potensi-besar-tingkatkan-ekonomi-masyarakat",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-07"
+    },
+    {
+      "id": 816,
+      "title": "Refurbishments, drive-thru and matcha: how Costa Coffee got its mojo back",
+      "url": "https://www.worldcoffeeportal.com/news/refurbishments-drive-thru-and-matcha-how-costa-coffee-got-its-mojo-back/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-06"
+    },
+    {
+      "id": 815,
+      "title": "New CEO for Colombian coffee group Juan Valdez",
+      "url": "https://www.worldcoffeeportal.com/news/new-ceo-for-colombian-coffee-group-juan-valdez/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-06"
+    },
+    {
+      "id": 800,
+      "title": "Gambar Kopi di Gelas: Panduan Jenis dan Nama Minuman",
+      "url": "https://arutalacoffee.com/blog/gambar-kopi-di-gelas-panduan-jenis-dan-nama-minuman",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-06"
+    },
+    {
+      "id": 799,
+      "title": "Mengenal Ragam Kopi Panas: Ciri Visual & Edukasinya",
+      "url": "https://arutalacoffee.com/blog/mengenal-ragam-kopi-panas-ciri-visual-edukasinya",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-06"
+    },
+    {
+      "id": 798,
+      "title": "Kopi Starbucks Sachet: Ide Coffee Gifts & Hampers",
+      "url": "https://arutalacoffee.com/blog/kopi-starbucks-sachet-ide-coffee-gifts-hampers",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-06"
+    },
+    {
+      "id": 794,
+      "title": "Rekomendasi Harga Kopi Arabika 6 Oktober 2026 - Vibiznews.com",
+      "url": "https://vibiznews.com/index.php/2026/10/06/rekomendasi-harga-kopi-arabika-6-oktober-2026/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-06"
+    },
+    {
+      "id": 791,
+      "title": "TEI 2026 Satukan Kopi, Teh, Kakao, Mudahkan Pembeli Temukan Produk - RRI.co.id",
+      "url": "https://rri.co.id/ekonomi/bisnis/2791589/tei-2026-satukan-kopi-teh-kakao-mudahkan-pembeli-temukan-produk",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-06"
+    },
+    {
+      "id": 782,
+      "title": "Menko Muhaimin: Kopi Pesan Trend berpotensi tingkatkan ekonomi warga",
+      "url": "https://www.antaranews.com/berita/5774052/menko-muhaimin-kopi-pesan-trend-berpotensi-tingkatkan-ekonomi-warga",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-10-06"
+    },
     {
       "id": 719,
       "title": "Coffee Decoded: What is Terroir in Coffee? — Specialty Coffee Association",
@@ -1558,6 +1702,14 @@
       "published_date": "2026-09-11"
     },
     {
+      "id": 826,
+      "title": "ICX Jakarta 2026 Resmi Berakhir, Satukan Pelaku Kopi Indonesia dan Mancanegara dalam Satu Ekosistem - Stapo.id",
+      "url": "https://www.stapo.id/news/icx-jakarta-2026-4/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-09-10"
+    },
+    {
       "id": 702,
       "title": "Asal-Usul Kopi Luwak: Sejarah, Proses, & Karakter",
       "url": "https://arutalacoffee.com/blog/asal-usul-kopi-luwak-sejarah-proses-karakter",
@@ -2054,6 +2206,38 @@
       "published_date": "2026-09-01"
     },
     {
+      "id": 804,
+      "title": "Ide Nama Brand Minuman Kopi Unggulan Indonesia",
+      "url": "https://arutalacoffee.com/blog/ide-nama-brand-minuman-kopi-unggulan-indonesia",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-08-31"
+    },
+    {
+      "id": 803,
+      "title": "Otten Coffee Semarang dan Roaster Kopi Lokal",
+      "url": "https://arutalacoffee.com/blog/otten-coffee-semarang-dan-roaster-kopi-lokal",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-08-31"
+    },
+    {
+      "id": 802,
+      "title": "Alkohol Terbuat dari Apa? Fakta & Istilah Kopi",
+      "url": "https://arutalacoffee.com/blog/alkohol-terbuat-dari-apa-fakta-istilah-kopi",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-08-31"
+    },
+    {
+      "id": 801,
+      "title": "Panduan Kopi Jakarta: Budaya, Kafe, & Cita Rasa",
+      "url": "https://arutalacoffee.com/blog/panduan-kopi-jakarta-budaya-kafe-cita-rasa",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-08-31"
+    },
+    {
       "id": 636,
       "title": "Java Robusta Green Coffee Wholesale: 2026 Buyer's Guide",
       "url": "https://www.indonesia-coffee.com/en/articles/java-robusta-green-coffee-wholesale-2026-buyers-guide-17sAp0",
@@ -2148,6 +2332,54 @@
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2026-08-21"
+    },
+    {
+      "id": 822,
+      "title": "Inside an Export-Ready Coffee Supply Chain - Indokom Coffee",
+      "url": "https://indokom.co.id/story-export-ready-supply-chain/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-08-18"
+    },
+    {
+      "id": 821,
+      "title": "World of Coffee Jakarta - Indokom Coffee",
+      "url": "https://indokom.co.id/story-world-of-coffee-jakarta/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-08-18"
+    },
+    {
+      "id": 820,
+      "title": "Q4 2026 Indonesia Arabica Outlook - Indokom Coffee",
+      "url": "https://indokom.co.id/outlook-q4-2026/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-08-18"
+    },
+    {
+      "id": 819,
+      "title": "Q2 2026 Indonesia Arabica Outlook - Indokom Coffee",
+      "url": "https://indokom.co.id/outlook-q2-2026/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-08-18"
+    },
+    {
+      "id": 818,
+      "title": "Q1 2026 Indonesia Arabica Outlook - Indokom Coffee",
+      "url": "https://indokom.co.id/outlook-q1-2026/",
+      "material_type": "growth",
+      "relevance": "CORE",
+      "published_date": "2026-08-18"
+    },
+    {
+      "id": 817,
+      "title": "Q3 2026 Indonesia Arabica Outlook - Indokom Coffee",
+      "url": "https://indokom.co.id/outlook-q3-2026/",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2026-08-18"
     },
     {
       "id": 638,
@@ -2830,12 +3062,92 @@
       "published_date": "2025-12-21"
     },
     {
+      "id": 805,
+      "title": "Indonesian Coffee Export License: 2025 Complete Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-export-license-2025-complete-guide-7pvE1x",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-20"
+    },
+    {
+      "id": 806,
+      "title": "Indonesian Coffee Decaf: Methods, MOQ & Lead Times (2025)",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-decaf-methods-moq-and-lead-times-2025-l2FKXu",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-18"
+    },
+    {
+      "id": 807,
+      "title": "Indonesian Coffee Export Taxes & VAT: 2025 Pricing Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-export-taxes-and-vat-2025-pricing-guide-Q30yPM",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-17"
+    },
+    {
       "id": 307,
       "title": "Berita Sawit - Kukar Perkuat Sawit, Kopi, dan Kakao Lewat Kemitraan Pertanian Berkelanjutan - InfoSAWIT",
       "url": "https://www.infosawit.com/2025/12/17/kukar-perkuat-sawit-kopi-dan-kakao-lewat-kemitraan-pertanian-berkelanjutan/",
       "material_type": "growth",
       "relevance": "CORE",
       "published_date": "2025-12-17"
+    },
+    {
+      "id": 808,
+      "title": "Indonesian Coffee Quality Claims & Arbitration: 2025 Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-quality-claims-and-arbitration-2025-guide-kn8E20",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-16"
+    },
+    {
+      "id": 809,
+      "title": "Indonesian Coffee Switch Bill of Lading: 2025 Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-switch-bill-of-lading-2025-guide-1c_Obd",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-15"
+    },
+    {
+      "id": 810,
+      "title": "Indonesian Coffee Forward Contracts & FX Hedging: 2025 Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-forward-contracts-and-fx-hedging-2025-guide-p_Hsjn",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-14"
+    },
+    {
+      "id": 811,
+      "title": "Indonesian Coffee LCL Vs FCL: 2025 Cost & Risk Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-lcl-vs-fcl-2025-cost-and-risk-guide-uRseOM",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-13"
+    },
+    {
+      "id": 812,
+      "title": "Indonesian Coffee Moisture & Water Activity: 2025 Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-moisture-and-water-activity-2025-guide-Q06K8M",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-12"
+    },
+    {
+      "id": 813,
+      "title": "Indonesian Coffee Pre‑Shipment Inspection: 2025 Buyer Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-preshipment-inspection-2025-buyer-guide-fqWCWB",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-11"
+    },
+    {
+      "id": 814,
+      "title": "Indonesian Coffee Maximum Residue Limits: EU & US 2025 Guide",
+      "url": "https://www.indonesia-coffee.com/en/articles/indonesian-coffee-maximum-residue-limits-eu-and-us-2025-guide-ugXWW0",
+      "material_type": "growth",
+      "relevance": "MIXED",
+      "published_date": "2025-12-10"
     },
     {
       "id": 697,
