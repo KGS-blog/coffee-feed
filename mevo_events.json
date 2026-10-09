@@ -227,7 +227,7 @@
       "note": "Tanggal pelaksanaan diekstrak dari konteks acara; kolom kosong berarti belum disebut secara jelas."
     }
   ],
-  "candidate_count": 165,
+  "candidate_count": 168,
   "candidates": [
     {
       "id": "3fa4a2e03fb9c62c9ed4",
@@ -1751,6 +1751,33 @@
       "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
     },
     {
+      "id": "c7669107244cd4bbe195",
+      "document_id": 1064,
+      "source_url": "https://www.jawapos.com/bisnis/2610080231/cari-inspirasi-dan-peluang-usaha-kafe-dan-kopi-kekinian-cbe-2026-digelar-di-nice-pik-2",
+      "source_title": "Cari Inspirasi dan Peluang Usaha Kafe dan Kopi Kekinian, CBE 2026 Digelar di NICE PIK 2",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "30eff17d95df3cc0b87a",
+      "document_id": 1064,
+      "source_url": "https://www.jawapos.com/bisnis/2610080231/cari-inspirasi-dan-peluang-usaha-kafe-dan-kopi-kekinian-cbe-2026-digelar-di-nice-pik-2",
+      "source_title": "Cari Inspirasi dan Peluang Usaha Kafe dan Kopi Kekinian, CBE 2026 Digelar di NICE PIK 2",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
+      "id": "49a03ba08f74404e39a2",
+      "document_id": 1105,
+      "source_url": "https://www.worldcoffeeportal.com/global-coffee-institute-about/",
+      "source_title": "World Coffee Portal",
+      "date_candidates": [],
+      "status": "NEEDS_REVIEW",
+      "reason": "Periksa nama acara, tanggal pelaksanaan, lokasi dan organizer; tanggal terbit bukan tanggal acara."
+    },
+    {
       "id": "source-824",
       "document_id": 824,
       "source_url": "https://cafebrasserieexpo.com/programs",
@@ -1847,5 +1874,5 @@
     }
   ],
   "notes": "Tanggal event dipisahkan dari tanggal terbit. Kandidat belum menjadi agenda terkonfirmasi. Jadwal dapat berubah; periksa sumber resmi.",
-  "updated_at": "2026-10-08T13:37:07.805862+00:00"
+  "updated_at": "2026-10-09T15:00:41.317779+00:00"
 }
